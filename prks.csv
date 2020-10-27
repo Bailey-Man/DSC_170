@@ -1,0 +1,2759 @@
+,NAME,OWNERSHIP,LOCATION,ALIAS_NAME
+0,South Carlsbad SB,State Parks,,South Carlsbad State Beach
+1,Torrey Pines SB,State Parks,,Torrey Pines State Beach
+2,Ruocco Park,SDUPD,"585 Harbor Ln, San Diego. California",Ruocco Park
+3,Tuna Harbor Park,SDUPD,"700 North Harbor Dr, San Diego. California",Tuna Harbor Park
+4,San Diego Bayfront Park,SDUPD,"One Park Boulevard, San Diego. California",San Diego Bayfront Park
+5,Pepper Park,SDUPD,"3299 Tidelands Av, National City. California",Pepper Park
+6,Ocotillo Wells SVRA,State Parks,,Ocotillo Wells SVRA
+7,We-Nelsch CP,State Parks,,We-Nelsch Cultural Preserve
+8,Agua Caliente County Park (ABDSP),State Parks,,Agua Caliente County Park
+9,Santa Rosa Mountains SW,State Parks,,Santa Rosa Mountains State Wilderness
+10,San Pasqual Battlefield SHP,State Parks,,San Pasqual Battlefield State Park
+11,Carlsbad SB,State Parks,,Carlsbad State Beach
+12,Anza-Borrego Desert SW,State Parks,,Anza-Borrego Desert State Wilderness
+13,Coyote Canyon CP,State Parks,,Coyote Canyon Cultural Preserve
+14,Los Penasquitos Marsh NP,State Parks,,Los Penasquitos Marsh Nature Nature Preserve
+15,Border Field SP,State Parks,,Border Field State Park
+16,Cuyamaca Rancho SP,State Parks,,Cuyamaca Rancho State Park
+17,Ocotillo Wells SVRA,State Parks,,Ocotillo Wells SVRA
+18,Old Town San Diego SHP,State Parks,,Old Town San Diego State Park
+19,Palomar Mountain SP,State Parks,,Palomar Mountain State Park
+20,San Onofre SB,State Parks,,San Onofre State Beach
+21,Torrey Pines SNR,State Parks,,Torrey Pines State Nature Reserve
+22,Grand Caribe Shoreline Park,SDUPD,"598 Grand Caribe Cswy, Coronado. California",Grand Caribe Shoreline Park
+23,Ah-Ha-Kwe-Ah-Mac/Stonewall Mine CP,State Parks,,Ah-Ha-Kwe-Ah-Mac/Stonewall Mine Cultural Preserve
+24,Pilcha (West Mesa) CP,State Parks,,Pilcha (West Mesa) Cultural Preserve
+25,Kumeyaay Soapstone CP,State Parks,,Kumeyaay Soapstone Cultural Preserve
+26,Cuish-Cuish (East Mesa) CP,State Parks,,Cuish-Cuish (East Mesa) Cultural Preserve
+27,Doane Valley NP,State Parks,,Doane Valley Nature Nature Preserve
+28,Trestles Wetlands NP,State Parks,,Trestles Wetlands Nature Nature Preserve
+29,Shelter Island Shoreline Park (North),SDUPD,"1500 Shelter Island Dr, San Diego. California",Shelter Island Shoreline Park (North)
+30,Coronado Ferry Landing Park,SDUPD,"1 B Av, Coronado. California",Coronado Ferry Landing Park
+31,Centennial Park,SDUPD,"1 B Av, Coronado. California",Centennial Park
+32,Lane Field Park,SDUPD,"1009 North Harbor Dr, San Diego. California",Lane Field Park
+33,Broadway Landing,SDUPD,"1198 West Broadway, San Diego. California",Broadway Landing
+34,Harbor Island Park,SDUPD,"1875 Harbor Island Dr, San Diego. California",Harbor Island Park
+35,Spanish Landing Park (East),SDUPD,"3900 North Harbor Dr, San Diego. California",Spanish Landing Park (East)
+36,Spanish Landing Park (West),SDUPD,"4300 North Harbor Dr, San Diego. California",Spanish Landing Park (West)
+37,Spanish Landing Park (West),SDUPD,"4300 North Harbor Dr, San Diego. California",Spanish Landing Park (West)
+38,Tuna Harbor Park,SDUPD,"700 North Harbor Dr, San Diego. California",Tuna Harbor Park
+39,Shelter Island Shoreline Park (Central),SDUPD,"1800 Shelter Island Dr, San Diego. California",Shelter Island Shoreline Park (Central)
+40,Shelter Island Shoreline Park (Central),SDUPD,"1800 Shelter Island Dr, San Diego. California",Shelter Island Shoreline Park (Central)
+41,Shelter Island Shoreline Park (Central),SDUPD,"1800 Shelter Island Dr, San Diego. California",Shelter Island Shoreline Park (Central)
+42,Chula Vista Bayside Park & Pier,SDUPD,"999 Bayside Pkwy, Chula Vista. California",Chula Vista Bayside Park & Pier
+43,MAXTON BROWN PARK,City of Carlsbad,Laguna Dr and State St,Maxton Brown Park
+44,OAK PARK,City of Carlsbad,Oak Av and Pio Pico Dr,Oak Park
+45,MAGEE PARK,City of Carlsbad,258 Beech Avenue,Magee Park
+46,HOLIDAY PARK,City of Carlsbad,Chestnut Ave and Pio Pico Drive,Holiday Park
+47,ROTARY PARK,City of Carlsbad,2900 Washington St,Rotary Park
+48,PINE PARK,City of Carlsbad,3500 Harding St,Pine Park
+49,CHASE FIELD,City of Carlsbad,3400 Harding St,Chase Field
+50,LAGUNA RIVERA PARK,City of Carlsbad,Kelly and Park Dr,Laguna Rivera Park
+51,ZONE 5 PARK,City of Carlsbad,Faraday Av and Camino Hills Dr,Zone 5 Park
+52,Culp Valley CP,State Parks,,Culp Valley Cultural Preserve
+53,Angelina Spring CP,State Parks,,Angelina Spring Cultural Preserve
+54,Little Blair Valley CP,State Parks,,Little Blair Valley Cultural Preserve
+55,Piedras Grandes CP,State Parks,,Piedras Grandes Cultural Preserve
+56,Southern Overland Trail CP,State Parks,,Southern Overland Trail Cultural Preserve
+57,Barrel Springs CP,State Parks,,Barrel Springs Cultural Preserve
+58,Hawi-Vallecito CP,State Parks,,Hawi-Vallecito Cultural Preserve
+59,Ellen Browning Scripps NP,State Parks,,Ellen Browning Scripps Nature Nature Preserve
+60,Anza-Borrego Desert SP,State Parks,,Anza-Borrego Desert State Park
+61,Los Penasquitos Marsh NP,State Parks,,Los Penasquitos Marsh Nature Nature Preserve
+62,Navy Pier,SDUPD,"900 North Harbor Dr, San Diego. California",Navy Pier
+63,Coronado Tidelands Park,SDUPD,"2000 Mullinix Dr, Coronado. California",Coronado Tidelands Park
+64,Dunes Park,SDUPD,"790 Seacoast Dr, Imperial Beach. California",Dunes Park
+65,Cesar Chavez Park,SDUPD,"1449 Cesar E. Chavez Pkwy, San Diego. California",Cesar Chavez Park
+66,Fifth Avenue Landing Lawn Area,SDUPD,"600 Convention Center Wy, San Diego. California",Fifth Avenue Landing Lawn Area
+67,Yacht Club Promenade Pocket Park,SDUPD,"Strand Wy, Coronado. California",Yacht Club Promenade Pocket Park
+68,Embarcadero Marina Park North,SDUPD,"400 Kettner Blvd, San Diego. California",Embarcadero Marina Park North
+69,Point Loma Marina Park,SDUPD,"2040 Harbor Island Drive, San Diego. California",Point Loma Marina Park
+70,Portwood Pier Plaza,SDUPD,"940 Seacoast Dr, Imperial Beach. California",Portwood Pier Plaza
+71,Holiday Estates I Park,City of Chula Vista,383 Connoley Cir,Holiday Estates I Park
+72,Silver Strand SB,State Parks,,Silver Strand State Beach
+73,Moonlight SB,State Parks,,Moonlight State Beach
+74,Leucadia SB,State Parks,,Leucadia State Beach
+75,Cuyamaca Mountain SW,State Parks,,Cuyamaca Mountain State Wilderness
+76,Cuyamaca Meadow NP,State Parks,,Cuyamaca Meadow Nature Preserve
+77,SKATE PARK,City of Carlsbad,Safety Center & Orion Wy,Skate Park
+78,Gayle L McCandliss Park,City of Chula Vista,415 E J St,Gayle L Mccandliss Park
+79,Sunbow Park,City of Chula Vista,500 E Naples St,Sunbow Park
+80,Lancerlot Park,City of Chula Vista,750 K St,Lancerlot Park
+81,Eucalyptus Park,City of Chula Vista,Fourth Av & C St,Eucalyptus Park
+82,Friendship Park,City of Chula Vista,Fourth Av & F St,Friendship Park
+83,Norman Park,City of Chula Vista,270 F St,Norman Park
+84,Chula Vista Women's Club,City of Chula Vista,390 Garrett Av,Chula Vista Women'S Club
+85,Memorial Park,City of Chula Vista,373 Park Wy,Memorial Park
+86,Bay Boulevard Park,City of Chula Vista,F St & Bay Bl,Bay Boulevard Park
+87,Bayside Park,SDUPD,Bayside Pw,Bayside Park
+88,Bayfront Park,SDUPD,800 Marina Pkwy,Bayfront Park
+89,Marina View Park,SDUPD,800 Marina Pkwy,Marina View Park
+90,Embarcadero Marina Park South,SDUPD,"20 Marina Park Wy, San Diego. California",Embarcadero Marina Park South
+91,Coronado Skatepark,SDUPD,"2000 Mullinix Drive, Coronado. California",Coronado Skatepark
+92,Kellogg Beach Park,SDUPD,"Kellogg St., San Diego, California",Kellogg Beach Park
+93,Shelter Island Shoreline Park (South),SDUPD,"1500 Shelter Island Dr, San Diego. California",Shelter Island Shoreline Park (South)
+94,FUERTE PARK,City of Carlsbad,El Fuerte St and Corinitia St,Fuerte Park
+95,STAGECOACH PARK,City of Carlsbad,3420 Camino de los Coches,Stagecoach Park
+96,ALGA NORTE PARK,City of Carlsbad,6565 Alicante Rd,Alga Norte Park
+97,Marisol Park,City of Chula Vista,916 Rancho Del Rey Pkwy,Marisol Park
+98,Terra Nova Park,City of Chula Vista,450 Hidden Vista Dr,Terra Nova Park
+99,Rohr Park,City of Chula Vista,4548 Sweetwater Rd,Rohr Park
+100,Discovery Park,City of Chula Vista,700 Buena Vista Wy,Discovery Park
+101,Loma Verde Park,City of Chula Vista,1420 Loma Ln,Loma Verde Park
+102,Rienstra Sports Complex,City of Chula Vista,1500 Max Av,Rienstra Sports Complex
+103,Los Ninos Park,City of Chula Vista,150 Teal St,Los Ninos Park
+104,Connoley Park,City of Chula Vista,1559 Connoley Av,Connoley Park
+105,Holiday Estates II Park,City of Chula Vista,368 Connoley Cir,Holiday Estates Ii Park
+106,Glen Park,City of Encinitas,2149 Orinda Dr,Glen Park
+107,Las Verdes Park,City of Encinitas,1390 Paseo De Las Verdes,Las Verdes Park
+108,Wiro Park,City of Encinitas,2232 El Camino Del Norte,Wiro Park
+109,Encinitas Viewpoint,City of Encinitas,56 E D St,Encinitas Viewpoint
+110,Horizon Park,City of Chula Vista,970 E Palomar St,Horizon Park
+111,Sunridge Park,City of Chula Vista,952 Beechglen Dr,Sunridge Park
+112,Chula Vista Marina View Park,SDUPD,"900 Marina Pkwy, Chula Vista. California",Chula Vista Marina View Park
+113,Chula Vista Bayfront Park,SDUPD,"980 Marina Pkwy, Chula Vista. California",Chula Vista Bayfront Park
+114,Otay Park,City of Chula Vista,1613 Albany Av,Otay Park
+115,Otay Gym & Rec Center,City of Chula Vista,3554 Main St,Otay Gym & Rec Center
+116,Valle Lindo Park,City of Chula Vista,545 Sequoia Dr,Valle Lindo Park
+117,Greg Rogers Park,City of Chula Vista,1189 Oleander Av,Greg Rogers Park
+118,Veterans Park,City of Chula Vista,785 E Palomar St,Veterans Park
+119,CALAVERA PARK,City of Carlsbad,2997 Glasgow Drive,Calavera Park
+120,CANNON PARK,City of Carlsbad,Carlsbad Bl and Cannon Rd,Cannon Park
+121,HIDDEN CANYON PARK,City of Carlsbad,Carlsbad Village Dr,Hidden Canyon Park
+122,DOG PARK,City of Carlsbad,Carlsbad Village Dr,Dog Park
+123,AVIARA OAKS SCHOOL FIELD,City of Carlsbad,Ambrosia Ln & Aviara Pkwy,Aviara Oaks School Field
+124,HOSP GROVE PARK,City of Carlsbad,Jefferson & Monroe,Hosp Grove Park
+125,CARLSBAD HIGH SCHOOL,City of Carlsbad,3557 Monroe St,Carlsbad High School
+126,MONROE STREET POOL,City of Carlsbad,3557 Monroe St,Monroe Street Pool
+127,MAGNOLIA ATHLETIC FIELD,City of Carlsbad,Valley St and Tamarack Av,Magnolia Athletic Field
+128,Independence Park,City of Chula Vista,1248 Calle Santiago,Independence Park
+129,Rancho Del Rey Park North,City of Chula Vista,1311 Buena Vista Wy,Rancho Del Rey Park North
+130,Rancho Del Rey Finger,City of Chula Vista,1311 Buena Vista Wy,Rancho Del Rey Park Finger
+131,Rancho Del Rey South,City of Chula Vista,1311 Buena Vista Wy,Rancho Del Rey Park South
+132,Hilltop Park,City of Chula Vista,780 Hilltop Dr,Hilltop Park
+133,Harborside Park,City of Chula Vista,670 Oxford St,Harborside Park
+134,Lauderbach Park,City of Chula Vista,333 Oxford St,Lauderbach Park
+135,Palomar Park,City of Chula Vista,1350 Park Dr,Palomar Park
+136,Sherwood Park,City of Chula Vista,69 Sherwood St,Sherwood Park
+137,SDG&E West,City of Chula Vista,1450 Hilltop Dr,Sdg&E West
+138,SDG&E East,City of Chula Vista,1420 Loma Ln,Sdg&E East
+139,Explorer Park,City of Chula Vista,Rancho Del Rey Py & Norella St,Explorer Park
+140,POINSETTIA PARK,City of Carlsbad,6600 Hidden Valley Road,Poinsettia Park
+141,LEVANTE PARK,City of Carlsbad,3035 Levante St,Levante Park
+142,Hawk View Park,City of Encinitas,1309 Blue Heron Ave,Hawk View Park
+143,Sun Vista Park,City of Encinitas,2011 Avenida La Posta,Sun Vista Park
+144,Little Oaks Equestrian Park,City of Encinitas,2879 Lone Jack Rd,Little Oaks Equestrian Park
+145,Oak Crest Park,City of Encinitas,1219 Encinitas Blvd,Oak Crest Park
+146,Las Verdes Park,City of Encinitas,1390 Paseo De Las Verdes,Las Verdes Park
+147,Mildred MacPherson Park,City of Encinitas,1045 S Vulcan Ave,Mildred Macpherson Park
+148,MacKenzie Creek Park,City of Chula Vista,2775 Mackenzie Creek Rd,Mackenzie Creek Park
+149,Montevalle Park,City of Chula Vista,840 Duncan Ranch Rd,Montevalle Park
+150,Chula Vista Community Park,City of Chula Vista,1060 Eastlake Pkwy,Chula Vista Community Park
+151,Salt Creek Park,City of Chula Vista,2710 Otay Lakes Rd,Salt Creek Park
+152,Sunset View Park,City of Chula Vista,1390 S Greensview Dr,Sunset View Park
+153,Bostonia,City of El Cajon,1049 Bostonia Street,Bostonia Park
+154,Tuttle,City of El Cajon,379 W. Chase Avenue,Tuttle Park
+155,Fire Station,City of El Cajon,695 Tyrone Street,Fire Station
+156,Hillside,City of El Cajon,840 Buena Terrace,Hillside Park
+157,Albert Van Zanten,City of El Cajon,1495 Greenfield Drive,Albert Van Zanten Park
+158,Centennial Plaza,City of El Cajon,200 Civic Center Way,Centennial Plaza Park
+159,Orpheus Park,City of Encinitas,482 Orpheus Ave,Orpheus Park
+160,Kuhlken Park,City of La Mesa,,Kuhlken Park
+161,Centennial Park,City of Coronado,,Centennial Park
+162,Rotary Park,City of Coronado,,Rotary Park
+163,Harbor View Park,City of Coronado,,Harbor View Park
+164,Spreckles Park Wests,City of Coronado,,Spreckles Park Wests
+165,Vista del Barco,City of Coronado,,Vista Del Barco Park
+166,Vernetti Field,City of Coronado,,Vernetti Field
+167,POWERHOUSE PARK,City of Del Mar,,Powerhouse Park
+168,SEA GROVE PARK,City of Del Mar,,Sea Grove Park
+169,TORREY PINES STATE RESERVE,City of Del Mar,,Torrey Pines State Reserve
+170,DOG BEACH,City of Del Mar,,Dog Beach
+171,CREST RIM PARK,City of Del Mar,,Crest Rim Park
+172,SEA CLIFF PARK,City of Del Mar,,Sea Cliff Park
+173,Bill Beck,City of El Cajon,543 N. Pierce Street,Bill Beck Park
+174,Fletcher Hills,City of El Cajon,2345 Center Place,Fletcher Hills
+175,Wells,City of El Cajon,1153 E. Madison Avenue,Wells Park
+176,Kennedy,City of El Cajon,1675 E. Madison Avenue,Kennedy Park
+177,Judson,City of El Cajon,326 N. Magnolia Avenue,Judson Park
+178,Prescott Promenade,City of El Cajon,201 E. Main Street,Prescott Promenade
+179,Paseo Del Rey Park,City of Chula Vista,750 Paseo Del Rey,Paseo Del Rey Park
+180,LEO CARRILLO HISTORIC PARK,City of Carlsbad,Melrose Dr and Poinsettia Ln,Leo Carrillo Historic Park
+181,AVIARA COMMUNITY PARK,City of Carlsbad,Poinsettia Ln & Ambrosia Ln,Aviara Community Park
+182,CADENCIA PARK,City of Carlsbad,3300 Cadencia St,Cadencia Park
+183,LA COSTA CANYON PARK,City of Carlsbad,Pueblo St and Rana Court,La Costa Canyon Park
+184,El Toyon Park,City of National City,,El Toyon Park
+185,Morgan Square Fountain,City of National City,,Morgan Square Fountain
+186,Boat Launch / Aquatic Center,City of National City,,Boat Launch / Aquatic Center
+187,Pool,City of National City,,Pool
+188,Las Palmas Park,City of National City,,Las Palmas Park
+189,Kimball Park,City of National City,,Kimball Park
+190,Sweetwater Heights Park,City of National City,,Sweetwater Heights Park
+191,Paradise Creek Educational Park,City of National City,,Paradise Creek Educational Park
+192,Golf Course,City of National City,,Golf Course
+193,Pepper Park,City of National City,,Pepper Park
+194,Valle Verde Neighborhood Park,City of Poway,,Valle Verde Neighborhood Park
+195,Adobe Ridge Neighborhood Park,City of Poway,,Adobe Ridge Neighborhood Park
+196,Windingwalk Park,City of Chula Vista,1675 Exploration Falls Dr,Windingwalk Park
+197,Spreckles Park,City of Coronado,,Spreckles Park
+198,Palm Park,City of Coronado,,Palm Park
+199,Triangle Park,City of Coronado,,Triangle Park
+200,Glorietta Bay Park,City of Coronado,,Glorietta Bay Park
+201,Bayview Park,City of Coronado,,Bayview Park
+202,Sunset Park,City of Coronado,,Sunset Park
+203,Star Park,City of Coronado,,Star Park
+204,Tidelands Park,City of Coronado,,Tidelands Park
+205,Mathewson Park,City of Coronado,,Mathewson Park
+206,Bay Circle Park,City of Coronado,,Bay Circle Park
+207,Bandel Park,City of Coronado,,Bandel Park
+208,Vetter Park,City of Coronado,,Vetter Park
+209,North Cays Park,City of Coronado,,North Cays Park
+210,Coronadao Cays Park,City of Coronado,,Coronadao Cays Park
+211,Renette,City of El Cajon,935 S. Emerald Avenue,Renette Park
+212,Ecke Sports Park,City of Encinitas,278 Saxony Rd,Ecke Sports Park
+213,Voyager Park,City of Chula Vista,1178 E J St,Voyager Park
+214,Harvest Park,City of Chula Vista,1550 E Palomar St,Harvest Park
+215,Heritage Park,City of Chula Vista,1381 E Palomar St,Heritage Park
+216,Bonita Long Canyon Park,City of Chula Vista,1745 Coltridge Ln,Bonita Long Canyon Park
+217,Tiffany Park,City of Chula Vista,1713 Elmhurst Av,Tiffany Park
+218,Breezewood Park,City of Chula Vista,1091 Breezewood Dr,Breezewood Park
+219,Cottonwood Park,City of Chula Vista,1778 E Palomar St,Cottonwood Park
+220,Santa Cora Park,City of Chula Vista,1365 Santa Cora Av,Santa Cora Park
+221,Santa Venetia Park,City of Chula Vista,1500 Magdalena Av,Santa Venetia Park
+222,All Seasons Park,City of Chula Vista,1825 Magdalena Av,All Seasons Park
+223,Mount San Miguel Park,City of Chula Vista,2335 Paseo Veracruz,Mount San Miguel Park
+224,Mountain Hawk Park,City of Chula Vista,1475 Lake Crest Dr,Mountain Hawk Park
+225,Leucadia Oaks Park,City of Encinitas,1511 N Vulcan Ave,Leucadia Oaks Park
+226,GROVE PARK,City of Escondido,,Grove Park
+227,MAYFLOWER DOG PARK,City of Escondido,,Mayflower Dog Park
+228,KIT CARSON PARK,City of Escondido,,Kit Carson Park
+229,Teeple Park,City of Imperial Beach,1121 Calla Ave,Teeple Park
+230,Dunes Park,City of Imperial Beach,700 Seacoast Dr,Dunes Park
+231,Veterans Park,City of Imperial Beach,1075 8th St,Veterans Park
+232,Pier Plaza,City of Imperial Beach,10 Evergreen Ave,Pier Plaza
+233,Reama Park,City of Imperial Beach,210 Elkwood Ave,Reama Park
+234,Triangle Park,City of Imperial Beach,Palm Ave and Highway 75,Triangle Park
+235,Sports Park,City of Imperial Beach,441 Imperial Beach Blvd,Sports Park
+236,Serenity Gardens,City of Imperial Beach,659 Silver Strand Blvd,Serenity Gardens
+237,Pocket Park,City of Imperial Beach,Palm Ave and Silver Strand Blvd,Pocket Park
+238,,City of Lemon Grove,3210 MAIN ST,
+239,Sunset Park,City of La Mesa,,Sunset Park
+240,Briercrest Park,City of La Mesa,,Briercrest Park
+241,Aztec Park,City of La Mesa,,Aztec Park
+242,Municipal Pool,City of La Mesa,,Municipal Pool
+243,La Mesa Golf Course,City of La Mesa,,La Mesa Golf Course
+244,MacArthur Park and Community Center,City of La Mesa,,Macarthur Park And Community Center
+245,Old Poway Park & Railroad,City of Poway,,Old Poway Park & Railroad
+246,Hilleary Park,City of Poway,,Hilleary Park
+247,Starridge Neighborhood Park,City of Poway,,Starridge Neighborhood Park
+248,Poway Oaks Neighborhood Park,City of Poway,,Poway Oaks Neighborhood Park
+249,Sycamore Creek Neighborhood Park - B,City of Poway,,Sycamore Creek Neighborhood Park - B
+250,Lake Poway Park,City of Poway,,Lake Poway Park
+251,Arbolitos Sports Fields,City of Poway,,Arbolitos Sports Fields
+252,Blue Sky Ecological Reserve,City of Poway,,Blue Sky Ecological Reserve
+253,Aubrey Park,City of Poway,,Aubrey Park
+254,Kumeyaay-Ipai Interpretive Center,City of Poway,,Kumeyaay-Ipai Interpretive Center
+255,Arbolitos Mini Park,City of Poway,,Arbolitos Mini Park
+256,Lakeview Park,City of San Marcos,700 Foxhall Dr,Lakeview Park
+257,Jack's Pond Park,City of San Marcos,986 La Moree Rd,Jack'S Pond Park
+258,Alder Glenn Park,City of San Marcos,Park Creek Ct,Alder Glenn Park
+259,Sage Pointe Park,City of San Marcos,201 Autumn Dr,Sage Pointe Park
+260,"BISHOP, MELBA PARK",City of Oceanside,5306 N River Road,"Bishop, Melba Park"
+261,BUCCANEER BEACH PARK,City of Oceanside,1506 South Pacific Street,Buccaneer Beach Park
+262,OAK RIPARIAN PARK,City of Oceanside,4625 Lake Boulevard,Oak Riparian Park
+263,Poway Community Park,City of Poway,,Poway Community Park
+264,Poway Skate Park,City of Poway,,Poway Skate Park
+265,Poway Sportsplex,City of Poway,,Poway Sportsplex
+266,Poway Dog Park,City of Poway,,Poway Dog Park
+267,Eucalyptus Park,County of San Diego,,Eucalyptus Park
+268,Collier Park,City of La Mesa,,Collier Park
+269,Rolando Park,City of La Mesa,,Rolando Park
+270,Vista La Mesa Park,City of La Mesa,,Vista La Mesa Park
+271,Junior Seau Sports Complex,State,,Junior Seau Sports Complex
+272,Sunset Park,City of San Diego,,Sunset Park
+273,Porter Park,City of La Mesa,,Porter Park
+274,,City of Lemon Grove,3225 OLIVE ST,
+275,,City of Lemon Grove,2271 WASHINGTON ST,
+276,,City of Lemon Grove,0 SCHOOL LN,
+277,LAKE WOHLFORD PARK,City of Escondido,,Lake Wohlford Park
+278,MOUNTAIN VIEW PARK,City of Escondido,,Mountain View Park
+279,GRAPE DAY PARK,City of Escondido,,Grape Day Park
+280,FELICITA PARK,City of Escondido,,Felicita Park
+281,WASHINGTON PARK,City of Escondido,,Washington Park
+282,ESCONDIDO BLVD POCKET,City of Escondido,,Escondido Blvd Pocket Park
+283,FRANCIS RYAN PARK,City of Escondido,,Francis Ryan Park
+284,JESMOND DENE PARK,City of Escondido,,Jesmond Dene Park
+285,WESTSIDE PARK,City of Escondido,,Westside Park
+286,EL NORTE PARK,City of Escondido,,El Norte Park
+287,DALEY RANCH PARK,City of Escondido,,Daley Ranch Park
+288,Silverset Neighborhood Park,City of Poway,,Silverset Neighborhood Park
+289,La Mesita Park,City of La Mesa,,La Mesita Park
+290,Mission Trails Regional Park,City of San Diego,,Mission Trails Regional Park
+291,Northmont Park,City of La Mesa,,Northmont Park
+292,,City of Lemon Grove,0,
+293,,City of Lemon Grove,3240 MAIN ST,
+294,,City of Lemon Grove,7701 NICHOLS ST,
+295,,City of Lemon Grove,0 LEMON GROVE AVE,
+296,Summer Hill Park,City of San Marcos,Bel Esprit Cir,Summer Hill Park
+297,Double Peak Regional Park,City of San Marcos,900 Double Peak Dr,Double Peak Regional Park
+298,San Marcos Senior Center,City of San Marcos,Richmar Ave,San Marcos Senior Center
+299,San Marcos Community Services,City of San Marcos,3 Civic Center Dr,San Marcos Community Services
+300,Woodland Park,City of San Marcos,671 Woodland Pkwy,Woodland Park
+301,Sky Ranch Park,City of Santee,,Sky Ranch Park
+302,William Bradley Park,City of San Marcos,1587 Linda Vista Dr,William Bradley Park
+303,Cerro De Las Posas Park,City of San Marcos,1387 W Borden Rd,Cerro De Las Posas Park
+304,Hollandia Park,City of San Marcos,12 Mission Hills Ct,Hollandia Park
+305,Knob Hill Park,City of San Marcos,860 Avenida Ricardo,Knob Hill Park
+306,Montiel Park,City of San Marcos,2290 Montiel Rd,Montiel Park
+307,Walnut Grove Park,City of San Marcos,2050 Sycamore Dr,Walnut Grove Park
+308,Mission Sports Park,City of San Marcos,931 Bailey Ct,Mission Sports Park
+309,Helen Bougher Park,City of San Marcos,1243 Borden Rd,Helen Bougher Park
+310,The Laurels Park,City of San Marcos,950 Hawthorne Ct,The Laurels Park
+311,Discovery Hills Children's Park,City of San Marcos,Via Vera Cruz,Discovery Hills Children'S Park
+312,San Elijo Hills Mini Park,City of San Marcos,Questhaven Rd,San Elijo Hills Mini Park
+313,Buelow Park,City of San Marcos,300 Autumn Dr,Buelow Park
+314,Ridgeline Trailhead,City of San Marcos,San Elijo Rd,Ridgeline Trailhead
+315,Connors Park,City of San Marcos,320 W San Marcos Blvd,Connors Park
+316,Sunset Park,City of San Marcos,909 Puesta del Sol,Sunset Park
+317,Regency Hills Park,City of San Marcos,555 Calle Capistrano,Regency Hills Park
+318,Senior Center Tot lot,City of San Marcos,111 Richmar Ave,Senior Center Tot Lot
+319,Civic Center Park,City of San Marcos,3 Civic Center Dr,Civic Center Park
+320,Santa Fe Hills Park,City of San Marcos,701 Via Barquero,Santa Fe Hills Park
+321,Amigo Park,City of San Marcos,730 Camino Magnifico,Amigo Park
+322,Quail Valley Park,City of San Marcos,775 Avenida Leon,Quail Valley Park
+323,Creek View Park,City of San Marcos,1217 Corte Encanto,Creek View Park
+324,ALAMOSA PARK,City of Oceanside,Mesa Drive and Alamosa Park Drive,Alamosa Park
+325,"KING, MARTIN LUTHER JR PARK",City of Oceanside,4300 Mesa Drive,"King, Martin Luther Jr Park"
+326,LAKE PARK,City of Oceanside,4970 Lake Blvd,Lake Park
+327,Moonlight Park,State Parks,,Moonlight Park
+328,Scott Valley Park,City of Encinitas,1602 Willowhaven Rd,Scott Valley Park
+329,Leo Mullen Sports Park,City of Encinitas,951 Via Cantebria,Leo Mullen Sports Park
+330,Encinitas Community Park,City of Encinitas,425 Santa Fe Dr,Encinitas Community Park
+331,Leucadia Roadside Park,City of Encinitas,860 N Coast Highway 101,Leucadia Roadside Park
+332,Cottonwood Creek Park,City of Encinitas,95 N Vulcan Ave,Cottonwood Creek Park
+333,Cardiff Sports Park,City of Encinitas,1661 Lake Dr,Cardiff Sports Park
+334,LAKE DIXON PARK,City of Escondido,,Lake Dixon Park
+335,,City of Escondido,,
+336,ROD MCLEOD PARK,City of Escondido,,Rod Mcleod Park
+337,Sweetwater River Park,County of San Diego,,Sweetwater River Park
+338,Oak Crest Park,City of Encinitas,,Oak Crest Park
+339,Snedeker Property,City of Encinitas,west side Saxony / south La Costa,Snedeker Property
+340,Paradise Marsh (Bannister Steel),City of National City,,Paradise Marsh (Bannister Steel)
+341,Paradise Marsh,US Fish & Wildlife,,Paradise Marsh
+342,Poway Community Swim Center,City of Poway,,Poway Community Swim Center
+343,Garden Road Neighborhood Park,City of Poway,,Garden Road Neighborhood Park
+344,Sycamore Creek Neighborhood Park - A,City of Poway,,Sycamore Creek Neighborhood Park - A
+345,San Elijo Park,City of San Marcos,1105 Elfin Forest Rd,San Elijo Park
+346,Simmons Family Park,City of San Marcos,2180 Rocky Point Way,Simmons Family Park
+347,Valley View Park,City of San Marcos,629 Corte Loren,Valley View Park
+348,Foothills Park,City of San Marcos,880 Avenida Abeja,Foothills Park
+349,Pebblestone Park,City of San Marcos,Glendale Ave,Pebblestone Park
+350,Optimist Park,City of San Marcos,891 Borden Rd,Optimist Park
+351,Valley Soccer Field,City of Poway,,Valley Soccer Field
+352,Veterans Park,City of Poway,,Veterans Park
+353,Bette Bendixen Park,City of Poway,,Bette Bendixen Park
+354,The Pond,City of Poway,,The Pond
+355,LUZ DURAN PARK,City of Vista,340 E TOWNSITE DR,Luz Duran Park
+356,WAVE WATERPARK,City of Vista,101 WAVE DR,Wave Waterpark
+357,CIVIC CENTER PARK,City of Vista,200 CIVIC CENTER DR,Civic Center Park
+358,WILDWOOD PARK,City of Vista,651 E VISTA WAY,Wildwood Park
+359,RANCHO BUENA VISTA ADOBE,City of Vista,640 ALTA VISTA DR,Rancho Buena Vista Adobe
+360,BRENGLE TERRACE PARK,City of Vista,1200 VALE TERRACE DR,Brengle Terrace Park
+361,GLORIA E MCCLELLAN SENIOR CENTER,City of Vista,1400 VALE TERRACE DR,Gloria E Mcclellan Senior Center
+362,BREEZE HILL PARK,City of Vista,645 S MELROSE DR,Breeze Hill Park
+363,SOUTH BUENA VISTA PARK,City of Vista,1602 MOUNTAIN PASS CIR,South Buena Vista Park
+364,BUENA VISTA PARK BALLFIELDS,City of Vista,1851 S MELROSE DR,Buena Vista Park Ballfields
+365,THIBODO PARK,City of Vista,1150 LUPINE HILLS DR,Thibodo Park
+366,SHADOWRIDGE PARK,City of Vista,2101 LUPINE HILLS DR,Shadowridge Park
+367,RAINTREE PARK,City of Vista,545 E TOWNSITE DR,Raintree Park
+368,BUENA VISTA PARK POND AND OPEN SPACE,City of Vista,1749 SHADOWRIDGE DR,Buena Vista Park Pond And Open Space
+369,BUENA VISTA PARK,City of Vista,2009 MELROSE DR,Buena Vista Park
+370,West Hills Park,City of Santee,8750 MAST BLVD,West Hills Park
+371,Big Rock Park,City of Santee,8125 ARLETTE STREET,Big Rock Park
+372,Shadow Hill Park,City of Santee,9161 SHADOW HILL ROAD,Shadow Hill Park
+373,Mast Park,City of Santee,9125 CARLTON HILLS BLVD,Mast Park
+374,Woodglen Vista Park,City of Santee,10250 WOODGLEN VISTA DRIVE,Woodglen Vista Park
+375,Town Center Park,City of Santee,RIVERWALK DRIVE AND CUYAMACA STREET,Town Center Park
+376,Santee Mini Park,City of Santee,10445 MISSION GORGE ROAD,Santee Mini Park
+377,Mulberry Park,City of San Marcos,751 Mulberry Dr,Mulberry Park
+378,Border Field SP,State Parks,,Border Field State Park
+379,Tijuana Estuary NP,State Parks,,Tijuana Estuary Nature Nature Preserve
+380,South Carlsbad SB,State Parks,,South Carlsbad State Beach
+381,Cardiff SB,State Parks,,Cardiff State Beach
+382,CALUMET NP,City of San Diego,"5433 Calumet Avenue, 92037",Calumet Park
+383,LINDA VISTA CP,City of San Diego,"6842 OSLER ST, 92111",Linda Vista Park
+384,CANYON HILLS PARK,City of San Diego,"12300 Alemania Rd,92129",Canyon Hills Park
+385,RHO BERNARDO CP,City of San Diego,"18448 W Bernardo Drive, 92127",Rho Bernardo Park
+386,Encinitas Ranch Lot 15,City of Encinitas,,Encinitas Ranch Lot 15
+387,Barelman Property,City of Encinitas,Saxony Rd / La Costa Ave,Barelman Property Open Space
+388,PALISADES PARK,City of Oceanside,Rancho del Oro and Vista Del Oro,Palisades Park
+389,MARSHALL PARK,City of Oceanside,1404 Marshall Street,Marshall Park
+390,"TODD, BUDDY PARK",City of Oceanside,Mesa Drive and Parnassus Circle,"Todd, Buddy Park"
+391,Leucadia SB,State Parks,,Leucadia State Beach
+392,DOG BEACH,City of Del Mar,,Dog Beach
+393,Cabrillo National Monument,State,"Cabrillo Memorial Drive, San Diego",Cabrillo National Monument
+394,Undeveloped Park 1 OS,City of Chula Vista,La Senda Wy,Undeveloped Park 1 Open Space
+395,Flair Slopes OS,City of Chula Vista,1189 Oleander Av,Flair Slopes Open Space
+396,Greg Rogers Park OS,City of Chula Vista,1189 Oleander Av,Greg Rogers Park Open Space
+397,Park OS,City of Chula Vista,673 E J St,Park Open Space
+398,CAPISTRANO PARK,City of Oceanside,770 Capistrano Drive,Capistrano Park
+399,"LANDES, JOHN PARK",City of Oceanside,2855 Cedar Road,"Landes, John Park"
+400,IVEY RANCH PARK,City of Oceanside,4101 Mission Avenue,Ivey Ranch Park
+401,TYSON STREET PARK,City of Oceanside,206 S. Strand,Tyson Street Park
+402,PACIFIC STREET LINEAR PARK,City of Oceanside,Wisconsin to Surfrider,Pacific Street Linear Park
+403,Terra Nova Park OS,City of Chula Vista,450 Hidden Vista Dr,Terra Nova Park Open Space
+404,City Park Undeveloped OS,City of Chula Vista,1268 Fallbrook Ct,City Park Undeveloped Open Space
+405,San Elijo SB,State Parks,,San Elijo State Beach
+406,OCEAN BEACH GATEWAY,City of San Diego,"2300 SUNSET CLIFFS BLVD, 92107",Ocean Beach Gateway
+407,TECOLOTE CP,City of San Diego,"1701 TECOLOTE RD, 92110",Tecolote Park
+408,CADMAN CP,City of San Diego,"4280 Avati Drive, 92117",Cadman Park
+409,N CLAIREMONT CP,City of San Diego,"4421 Bannock Avenue, 92117",N Clairemont Park
+410,SOUTH CLAIREMONT CP,City of San Diego,"3577 CLAIREMONT DR, 92117",South Clairemont Park
+411,KEARNY MESA CP,City of San Diego,"3170 Armstrong Street, 92111",Kearny Mesa Park
+412,MARINA LINEAR NP,City of San Diego,"176 HARBOR DR, 92101",Marina Linear Park
+413,HENDERSON SPORT CPLX,City of San Diego,"1092 S 45TH ST, 92113",Henderson Sport Cplx
+414,PARKSIDE NP,City of San Diego,"6240 Parkside Ave., 92139",Parkside Park
+415,BERRY NP,City of San Diego,"2060 Leon Rd. , 92154",Berry Park
+416,SUNNYSLOPE NP,City of San Diego,"2600 Elm St., 92154",Sunnyslope Park
+417,VILLA MONSERATE NP,City of San Diego,"10283 Perez Court, 92124",Villa Monserate Park
+418,VILLA NORTE NP,City of San Diego,"6597 Antigua Blvd., 92124",Villa Norte Park
+419,CAMP ELLIOTT NP,City of San Diego,"4916 Calle De Vida, 92124",Camp Elliott Park
+420,RANCHO DEL ORO COMMUNITY PARK,City of Oceanside,College and Empresa,Rancho Del Oro Community Park
+421,SPRING CREEK PARK,City of Oceanside,Melrose and Old Ranch,Spring Creek Park
+422,FIRESIDE PARK,City of Oceanside,251 Fireside Street,Fireside Park
+423,PACIFIC STREET LINEAR PARK,City of Oceanside,Wisconsin to Surfrider,Pacific Street Linear Park
+424,RANCHO DEL ORO COMMUNITY PARK,City of Oceanside,College and Empresa,Rancho Del Oro Community Park
+425,LIBBY LAKE PARK,City of Oceanside,424 Calle Montecito,Libby Lake Park
+426,"ORTEGA, RON RECREATION PARK",City of Oceanside,Brooks and Maxson,"Ortega, Ron Recreation Park"
+427,PRESIDIO PARK,City of San Diego,"2805 PRESIDIO DR, 92110",Presidio Park
+428,NORTH PARK CP,City of San Diego,"4044 Idaho St., 92104",North Park Park
+429,COLINA DEL SOL CP,City of San Diego,"4150 54th Place, 92115",Colina Del Sol Park
+430,CITY HTS CP,City of San Diego,"4367 WIGHTMAN ST, 92105",City Hts Park
+431,PT LOMA CP,City of San Diego,"1059 CATALINA BLVD, 92106",Pt Loma Park
+432,CHOLLAS CP,City of San Diego,"6350 College Grove Dr., 92105",Chollas Park
+433,MEMORIAL CP,City of San Diego,"2947 OCEAN VIEW BLVD, 92113",Memorial Park
+434,ENCANTO CP,City of San Diego,"6508 Wunderlin Ave., 92114",Encanto Park
+435,MARCY NP,City of San Diego,"5526 STRESEMANN ST, 92122",Marcy Park
+436,GERSHWIN NP,City of San Diego,"3508 Conrad Avenue, 92117",Gershwin Park
+437,MAC DOWELL NP,City of San Diego,"5173 ARVINELS AVE, 92117",Mac Dowell Park
+438,TORREY PINES CITY PARK,City of San Diego,"12001 TORREY PINES PARK RD, 92037",Torrey Pines City Park
+439,CHARLOTTE PARK,City of San Diego,"7962 PRINCESS ST, 92037",Charlotte Park
+440,HICKMAN FIELD PARK,City of San Diego,"6660 Hickman Field Drive, 92111",Hickman Field Park
+441,SAN YSIDRO CP,City of San Diego,"247 E PARK AVE, 92173",San Ysidro Park
+442,OLIVE GROVE CP,City of San Diego,"6075 Printwood Way, 92117",Olive Grove Park
+443,SERRA MESA CP,City of San Diego,"9020 Village Glen Drive, 92123",Serra Mesa Park
+444,PACIFIC BEACH CP,City of San Diego,"1405 Diamond Street, 92109",Pacific Beach Park
+445,LOMITA NP,City of San Diego,"8205 Leucadia St., 92114",Lomita Park
+446,CHRISTOPHER WILSON NP,City of San Diego,"8285 Skyline Dr., 92114",Christopher Wilson Park
+447,MARIE WIDMAN MEMORIAL PARK,City of San Diego,"6727 IMPERIAL AVE, 92114",Marie Widman Memorial Park
+448,BOONE NP,City of San Diego,"7248 Bullock Dr., 92114",Boone Park
+449,Z ST MP,City of San Diego,"3944 Z ST, 92113",Z St Park
+450,41ST ST MP,City of San Diego,"4105 Gamma St., 92113",41st St Park
+451,Undeveloped Park OS,City of Chula Vista,811 Arroyo Pl,Undeveloped Park Open Space
+452,RDR SPA I Phase 2 Park OS,City of Chula Vista,700 Buena Vista Wy,Rdr Spa I Phase 2 Park Open Space
+453,Independence Park OS,City of Chula Vista,1248 Calle Santiago,Independence Park Open Space
+454,ALLIED GARDENS CP,City of San Diego,"5155 Greenbrier Ave., 92120",Allied Gardens Park
+455,LAKE MURRAY CP,City of San Diego,"6308 PARK RIDGE BLVD, 92120",Lake Murray Park
+456,SAN CARLOS CP,City of San Diego,"6445 Lake Badin Ave., 92119",San Carlos Park
+457,DAILARD NP,City of San Diego,"6391 Cibola Rd, 92120",Dailard Park
+458,HILLTOP CP,City of San Diego,"14000 MC ENTEE ST, 92129",Hilltop Park
+459,BLACK MTN RCH CP,City of San Diego,"14700 Carmel Valley Road, 92128",Black Mtn Rch Park
+460,CARMEL MTN RCH CP,City of San Diego,"10166 RANCHO CARMEL DR, 92128",Carmel Mtn Rch Park
+461,CARMEL VALLEY CP,City of San Diego,"3751 TOWNSGATE DR, 92130",Carmel Valley Park
+462,MARTIN L KING CP,City of San Diego,"6407 SKYLINE DR, 92114",Martin L King Park
+463,SKYLINE HILLS CP,City of San Diego,"8285 Skyline Dr., 92114",Skyline Hills Park
+464,UNION PL CR MP,City of San Diego,"1250 Park Row Circle, 92101",Union Pl Cr Park
+465,SOUTHCREST CP,City of San Diego,"1297 S 40TH ST, 92113",Southcrest Park
+466,PARADISE HILLS CP,City of San Diego,"6610 Potomac St., 92139",Paradise Hills Park
+467,BAY TERRACES CP,City of San Diego,"7373 Tooma St., 92139",Bay Terraces Park
+468,EGGER-SOUTH BAY CP,City of San Diego,"1885 CORONADO SB AVE, 92154",Egger-South Bay Park
+469,MONTGOMERY-WALLER CP,City of San Diego,"3020 Coronado Ave., 92154",Montgomery-Waller Park
+470,NICHOLSON'S POINT NP,City of San Diego,"246 COAST BLVD, 92037",Nicholson'S Point Park
+471,COAST BLVD NP,City of San Diego,"322 COAST BLVD, 92037",Coast Blvd Park
+472,CANYONSIDE CP,City of San Diego,"12350 Black Mountain Road, 92129",Canyonside Park
+473,SCRIPPS RCH CP,City of San Diego,"11424 BLUE CYPRESS DR, 92131",Scripps Rch Park
+474,MIRA MESA CP,City of San Diego,"8575 New Salem Street, 92126",Mira Mesa Park
+475,NOBEL ATHLETIC AREA,City of San Diego,"8810 Judicial Drive, 92121",Nobel Athletic Area
+476,DOYLE CP,City of San Diego,"3950 Berino Court, 92122",Doyle Park
+477,LA JOLLA CP,City of San Diego,"615 Prospect Street, 92037",La Jolla Park
+478,STANDLEY CP,City of San Diego,"3547 GOVERNOR DR, 92122",Standley Park
+479,TIERRASANTA CP,City of San Diego,"11220 Clairemont Mesa Bl., 92124",Tierrasanta Park
+480,ADAMS AVENUE CP,City of San Diego,"3491 Adams Ave., 92116",Adams Avenue Park
+481,OCEAN BEACH CP,City of San Diego,"1984 EBERS ST, 92107",Ocean Beach Park
+482,CLEATOR BILL CP,City of San Diego,"4412 NIMITZ BLVD, 92107",Cleator Bill Park
+483,LA JOLLA STRAND NP,City of San Diego,"6664 NEPTUNE PL, 92037",La Jolla Strand Park
+484,VIA D NORTE MP,City of San Diego,"6165 LA JOLLA HERMOSA AVE, 92037",Via D Norte Park
+485,COLOR MP,City of San Diego,"1650 Los Altos Road, 92109",Color Park
+486,KATE SESSIONS MEMORIAL NP,City of San Diego,"5115 Soledad Road, 92109",Kate Sessions Memorial Park
+487,TOURMALINE SURFING NP,City of San Diego,"601 Tourmaline Street, 92109",Tourmaline Surfing Park
+488,BIRD ROCK NP,City of San Diego,"5371 La Jolla Hermosa Avenue, 92037",Bird Rock Park
+489,MT ETNA NP,City of San Diego,"4741 Mt Etna Drive, 92117",Mt Etna Park
+490,LINDBERGH NP,City of San Diego,"4141 Ashford Street, 92111",Lindbergh Park
+491,MT ACADIA NP,City of San Diego,"3865 Mt Acadia Boulevard, 92111",Mt Acadia Park
+492,OLD TROLLEY BARN NP,City of San Diego,"1900 Adams Ave., 92116",Old Trolley Barn Park
+493,NORTH  MTN VIEW MP,City of San Diego,"3376 N MOUNTAIN VIEW DR, 92116",North  Mtn View Park
+494,CHILDRENS MUSEUM MP,City of San Diego,"255 W ISLAND AVE, 92101",Childrens Museum Park
+495,OLIVE ST MP,City of San Diego,"2798 3RD AVE, 92103",Olive St Park
+496,CENTRAL AVE MP,City of San Diego,"3660 CENTRAL AVE, 92105",Central Ave Park
+497,HOWARD LANE NP,City of San Diego,"1626 DAIRY MART RD, 92173",Howard Lane Park
+498,LOS ALTOS NP,City of San Diego,"3898 MARZO ST, 92154",Los Altos Park
+499,OCEAN VIEW HILLS NP,City of San Diego,"4925 OCEAN VIEW HILLS PKWY, 92154",Ocean View Hills Park
+500,VISTA PACIFICA NP,City of San Diego,"6066 Avenida de las Vistas, 92154",Vista Pacifica Park
+501,LA JOLLA ATHL AREA,City of San Diego,"4636 Torrey Pines Road, 92130",La Jolla Athl Area
+502,KELLOGG NP,City of San Diego,"8300 CAM DEL ORO, 92037",Kellogg Park
+503,UNIVERSITY VILLAGE NP,City of San Diego,"7150 Florey Street, 92122",University Village Park
+504,UNIVERSITY GARDENS NP,City of San Diego,"6431 Gullstrand Street, 92122",University Gardens Park
+505,STARKEY MP,City of San Diego,"6705 DRAPER AVE, 92037",Starkey Park
+506,GRANT HILL NP,City of San Diego,"2632 J ST, 92102",Grant Hill Park
+507,30TH ST MP,City of San Diego,"702 S.30TH St., 92113",30th St Park
+508,SHERMAN MP,City of San Diego,"450 24th St., 92012",Sherman Park
+509,CHICANO PARK,City of San Diego,"1982 National Ave., 92113",Chicano Park
+510,HERMOSA TERRACE PARK,City of San Diego,"6500 NEPTUNE PL, 92037",Hermosa Terrace Park
+511,LA JOLLA HERMOSA PARK,City of San Diego,"5788 CHELSEA ST, 92037",La Jolla Hermosa Park
+512,MISSION BEACH PARK,City of San Diego,"804 W MISSION BAY DR, 92109",Mission Beach Park
+513,MISSION BAY PARK,City of San Diego,"2682 INGRAHAM ST, 92109",Mission Bay Park
+514,NAVAL TRAINING CENTER PARK,City of San Diego,"2750 Womble Rd, 92106",Naval Training Center Park
+515,BALBOA PARK,City of San Diego,"2125 Park Boulevard, 92101",Balboa Park
+516,SUNSET CLIFFS NATURAL PARK,City of San Diego,"700 SUNSET CLIFFS BLVD, 92107",Sunset Cliffs Natural Park
+517,KENMORE TERRACE MP,City of San Diego,"4842 Kenmore Terrace, 92103",Kenmore Terrace Park
+518,MONTEZUMA NP,City of San Diego,"4941 CATOCTIN DR, 92115",Montezuma Park
+519,COLLIER NP,City of San Diego,"2351 Soto Street, 92107",Collier Park
+520,WINDANSEA NP,City of San Diego,"6950 NEPTUNE PL, 92037",Windansea Park
+521,JERABEK NP,City of San Diego,"10150 Avenida Magnifica, 92131",Jerabek Park
+522,MISSION HILLS NP,City of San Diego,"1586 WASHINGTON PL, 92103",Mission Hills Park
+523,PARK DE LA CRUZ NP,City of San Diego,"3901 Landis St. , 92105",Park De La Cruz Park
+524,SOUTH VILLAGE NP,City of San Diego,"9353 Oviedo Street, 92129",South Village Park
+525,MARTIN AVE MP,City of San Diego,"3469 MARTIN AVE, 92113",Martin Ave Park
+526,J ST MP,City of San Diego,"3291 J St., 92102",J St Park
+527,ROADRUNNER NP,City of San Diego,"4779 LA CUENTA DR, 92124",Roadrunner Park
+528,CHOLLAS PARKWAY OPEN SPACE,City of San Diego,"2891 EUCLID AVE, 92105",Chollas Parkway Open Space
+529,SUNSHINE BERARDINI FIELD,City of San Diego,"4416 FEDERAL BLVD, 92102",Sunshine Berardini Field
+530,CHARLES STEVENS III MEMORIAL PARK,City of San Diego,"4632 HOME AVE, 92105",Charles Stevens Iii Memorial Park
+531,MCCALL ST MP,City of San Diego,"453 SAN ANTONIO AVE, 92106",Mccall St Park
+532,HORTON PLAZA NP,City of San Diego,"325 Broadway Ave, 92101",Horton Plaza Park
+533,NESTOR NP,City of San Diego,"2423 Grove Ave., 92154",Nestor Park
+534,SOUTHWEST NP,City of San Diego,"1416 27TH SB ST, 92154",Southwest Park
+535,SILVER WING NP,City of San Diego,"3737 Arey Dr. , 92154",Silver Wing Park
+536,PALM RIDGE NP,City of San Diego,"751 Firethorn St., 92154",Palm Ridge Park
+537,PACIFIC BEACH NP,City of San Diego,"4507 OCEAN BLVD, 92109",Pacific Beach Park
+538,KELLY STREET NP,City of San Diego,"6640 Kelly Street, 92111",Kelly Street Park
+539,MISSION HEIGHTS NP,City of San Diego,"1716 Westinghouse Street, 92111",Mission Heights Park
+540,KENSINGTON NP,City of San Diego,"4121 Adams Ave., 92116",Kensington Park
+541,PENASQUITOS VILLAGE NP,City of San Diego,"10636 CARMEL MOUNTAIN RD, 92129",Penasquitos Village Park
+542,ROLLING HILLS NP,City of San Diego,"11082 Carlota, 92129",Rolling Hills Park
+543,TORREY DEL MAR NP,City of San Diego,"7693 McGonigle Trail , 92130",Torrey Del Mar Park
+544,PANTOJA NP,City of San Diego,"524 West G Street, 92118",Pantoja Park
+545,DAVIS HOUSE MP,City of San Diego,"424 ISLAND AVE, 92101",Davis House Park
+546,KING PROMENADE NP,City of San Diego,"326 W HARBOR DR, 92101",King Promenade Park
+547,WABASH NP,City of San Diego,"3356 UNIVERSITY AVE, 92104",Wabash Park
+548,CENTRAL NP,City of San Diego,"4081 POLK AVE, 92105",Central Park
+549,WIGHTMAN ST NP,City of San Diego,"5028 WIGHTMAN ST, 92105",Wightman St Park
+550,DEL MAR MESA NP,City of San Diego,"6622 DUCK POND LN, 92130",Del Mar Mesa Park
+551,TWIN TRAILS NP,City of San Diego,"8900 Twin Trails Drive, 92129",Twin Trails Park
+552,RIDGEWOOD NP,City of San Diego,"12530 LA TORTOLA, 92129",Ridgewood Park
+553,PENASQUITOS TOWN CTR NP,City of San Diego,"13349 SALMON RIVER RD, 92129",Penasquitos Town Ctr Park
+554,VIEWS WEST NP,City of San Diego,"12904 LA TORTOLA, 92129",Views West Park
+555,SABRE SPRINGS NP,City of San Diego,"12953 Sabre Springs Parkway, 92128",Sabre Springs Park
+556,SOUTH CREEK NP,City of San Diego,"12245 Wickerbay Cove, 92128",South Creek Park
+557,CLAY AVE MP,City of San Diego,"3156 CLAY AVE, 92113",Clay Ave Park
+558,CANYON VIEW POCKET MP,City of San Diego,"11724 Spring Canyon Rd., 92131",Canyon View Pocket Park
+559,MIRAMAR RCH NORTH NP,City of San Diego,"10459 SCRIPPS POWAY PKWY, 92131",Miramar Rch North Park
+560,CYPRESS CANYON NP,City of San Diego,"11470 Cypress Canyon Rd., 92131",Cypress Canyon Park
+561,TORREY MEADOWS NP,City of San Diego,"13516 TORREY MEADOWS DR, 92129",Torrey Meadows Park
+562,ADOBE BLUFFS NP,City of San Diego,"8805 Gainsborough Avenue, 92129",Adobe Bluffs Park
+563,HIGHLAND RANCH NP,City of San Diego,"12140 Eastbourne Road, 92128",Highland Ranch Park
+564,CREST CYN NP,City of San Diego,"2250 Del Mar Heights Road, 92130",Crest Cyn Park
+565,CARMEL DEL MAR NP,City of San Diego,"12345 Carmel Park Drive, 92103",Carmel Del Mar Park
+566,WINDWOOD NP,City of San Diego,"12757 CARMEL CREEK RD, 92130",Windwood Park
+567,CARMEL MISSION NP,City of San Diego,"12281 CARMEL COUNTRY RD, 92130",Carmel Mission Park
+568,PLUMOSA MP,City of San Diego,"2676 CHATSWORTH BLVD, 92106",Plumosa Park
+569,L ST MP,City of San Diego,"2901 L St., 92102",L St Park
+570,ALLEN DENNIS V NP,City of San Diego,"800 Boundary St., 92102",Allen Dennis V Park
+571,GOMPERS NP,City of San Diego,"4926 Hilltop Dr., 92102",Gompers Park
+572,LA PAZ MP,City of San Diego,"5292 LA PAZ DR, 92114",La Paz Park
+573,SANTA ISABEL MP,City of San Diego,"771 SANTA ISABEL DR, 92114",Santa Isabel Park
+574,OCEAN VIEW MP,City of San Diego,"4294 OCEAN VIEW BLVD, 92113",Ocean View Park
+575,KENNEDY JOHN F NP,City of San Diego,"4825 Ocean View Bl., 92113",Kennedy John F Park
+576,KEILLER NP,City of San Diego,"7400 Lisbon St., 92114",Keiller Park
+577,LOPEZ RIDGE NP,City of San Diego,"7245 Calle Cristobal, 92126",Lopez Ridge Park
+578,MADDOX NP,City of San Diego,"7793 FLANDERS DR, 92126",Maddox Park
+579,MESA VERDE NP,City of San Diego,"8342 FLANDERS DR, 92126",Mesa Verde Park
+580,AVIARY NP,City of San Diego,"9782 Aviary Drive., 92131",Aviary Park
+581,FORESTVIEW MP,City of San Diego,"11201 Forestview Lane, 92131",Forestview Park
+582,LAKEVIEW NP,City of San Diego,"10788 MIRA LAGO TRL, 92131",Lakeview Park
+583,MIRAMAR OVERLOOK NP,City of San Diego,"11417 Scripps Ranch Blvd, 92131",Miramar Overlook Park
+584,MOUNTAIN VIEW NP,City of San Diego,"551 S. 40th St., 92113",Mountain View Park
+585,VISTA TERRACE NP,City of San Diego,"301 Athey Ave., 92173",Vista Terrace Park
+586,SAN YSIDRO ATHL AREA LARSEN FIELD,City of San Diego,"455 SYCAMORE RD, 92173",San Ysidro Athl Area Larsen Field
+587,CAMINO RUIZ NP,City of San Diego,"11498 Camino Ruiz, 92126",Camino Ruiz Park
+588,MESA VIKING NP,City of San Diego,"11278 Westonhill Drive, 92126",Mesa Viking Park
+589,WESTVIEW NP,City of San Diego,"11278 Westview Parkway, 92126",Westview Park
+590,BREEN NP,City of San Diego,"11103 Polaris Drive, 92126",Breen Park
+591,SEMILLON MP,City of San Diego,"12074 SEMILLON BLVD, 92131",Semillon Park
+592,SPRING CANYON NP,City of San Diego,"11157 SCRIPPS POWAY PKWY, 92131",Spring Canyon Park
+593,DEL MAR TRAILS NP,City of San Diego,"4450 DEL MAR TRAILS RD, 92130",Del Mar Trails Park
+594,CORAL GATE NP,City of San Diego,"3279 Anella Rd., 92173",Coral Gate Park
+595,32ND ST MP,City of San Diego,"3145 32ND ST., 92104",32nd St Park
+596,HOLLYWOOD NP,City of San Diego,"2301 Shamrock St., 92105",Hollywood Park
+597,OAK NP,City of San Diego,"5235 Maple St. , 92105",Oak Park
+598,EMERALD HILLS NP,City of San Diego,"1501Kelton Rd. , 92114",Emerald Hills Park
+599,CLAY NP,City of San Diego,"4768 SEMINOLE DR, 92115",Clay Park
+600,ZENA MP,City of San Diego,"6458 ZENA DR, 92115",Zena Park
+601,CABRILLO N MP,City of San Diego,"3232 Trumbull Street, 92106",Cabrillo N Park
+602,AZALEA NP,City of San Diego,"2596 Violet Ave., 92105",Azalea Park
+603,MONTCLAIR NP,City of San Diego,"2786 VANCOUVER AVE, 92104",Montclair Park
+604,LAUREL ST MP,City of San Diego,"723 W LAUREL ST, 92101",Laurel St Park
+605,CABRILLO S MP,City of San Diego,"1032 Leroy Street, 92106",Cabrillo S Park
+606,SAGE CANYON NP,City of San Diego,"5252 Harvest Run Drive, 92130",Sage Canyon Park
+607,TORREY HILLS NP,City of San Diego,"4262 Calle Mejillones, 92130",Torrey Hills Park
+608,SANDBURG NP,City of San Diego,"11170 Avenida del Gato, 92126",Sandburg Park
+609,PENASQUITOS CREEK NP,City of San Diego,"8021 Park Village Rd., 92129",Penasquitos Creek Park
+610,CAPEHART OPEN SPACE PARK,City of San Diego,"4700 Soledad Mountain Road, 92109",Capehart Open Space Park
+611,OCEAN AIR CP,City of San Diego,"4770 Fairport Ave, 92130",Ocean Air Park
+612,HIDDEN TRAILS NP,City of San Diego,1049 PARSONS LANDING,Hidden Trails Park
+613,PACIFIC BREEZES CP,City of San Diego,"4901 DEL SOL BLVD, 92154",Pacific Breezes Park
+614,LA ZANJA CANYON OS,City of San Diego,,La Zanja Canyon Open Space
+615,MISSION VALLEY HILLSIDES OS,City of San Diego,,Mission Valley Hillsides Open Space
+616,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+617,DEL MAR MESA MITIGATION,City of San Diego,,Del Mar Mesa Mitigation
+618,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+619,PARK NORTHEAST OS,City of San Diego,,Park Northeast Open Space
+620,CABRILLO HEIGHTS NP,City of San Diego,"8308 Hurlbut Street, 92123",Cabrillo Heights Park
+621,E CLAIREMONT ATHL AREA,City of San Diego,"3451 Mt. Acadia Boulevard, 92111",E Clairemont Athl Area
+622,CEDAR RIDGE MP,City of San Diego,"1702 Pentuckett Ave., 92104",Cedar Ridge Park
+623,DRY CREEK MP,City of San Diego,"11369 Scripps Creek Drive,92131",Dry Creek Park
+624,OAK GLEN MP,City of San Diego,"10775 SPRING CANYON RD, 92131",Oak Glen Park
+625,SOLANA RANCH NP,City of San Diego,"13597 PACIFIC HIGHLANDS PKWY, 92130",Solana Ranch Park
+626,PALISADES SOUTH NP,City of San Diego,"4918 OCEAN BLVD, 92109",Palisades South Park
+627,PENASQUITOS SKATE PARK,City of San Diego,"10129 CARMEL MOUNTAIN RD, 92129",Penasquitos Skate Park
+628,SILVER TERRACE MP,City of San Diego,"5500 Friars Road, 92110",Silver Terrace Park
+629,SUNRIDGE VISTA MP,City of San Diego,"10305 Azuaga, 92129",Sunridge Vista Park
+630,TERALTA NP,City of San Diego,"4100 Central Ave., 92105",Teralta Park
+631,ANTIGUA POCKET NP,City of San Diego,"5699 Antigua Blvd., 92124",Antigua Pocket Park
+632,BRIGHTON NP,City of San Diego,"2172 Spray Street., 92107",Brighton Park
+633,W LEWIS ST MP,City of San Diego,"792 W LEWIS ST, 92103",W Lewis St Park
+634,W MAPLE CANYON MP,City of San Diego,"250 W MAPLE ST, 92103",W Maple Canyon Park
+635,NORTH PARK MP,City of San Diego,"2874 N PARK WAY, 92104",North Park
+636,MURRAY RIDGE NP,City of San Diego,"8651 Celestine Avenue, 92123",Murray Ridge Park
+637,PRINCESS DEL CERRO NP,City of San Diego,"6221 WENRICH DR, 92120",Princess Del Cerro Park
+638,RHO MISSION CYN NP,City of San Diego,"7635 MARGERUM AVE, 92120",Rho Mission Cyn Park
+639,SAN CARLOS POCKET NP,City of San Diego,"6599 E LAKE DR, 92119",San Carlos Pocket Park
+640,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+641,SOLANA HIGHLANDS NP,City of San Diego,"3520 Long Run Drive, 92130",Solana Highlands Park
+642,RIVIERA DEL SOL NP,City of San Diego,"4524 RIVIERA SHORES ST, 92154",Riviera Del Sol Park
+643,SEFTON NP,City of San Diego,"2508 HOTEL CIRCLE PL, 92108",Sefton Park
+644,STONEBRIDGE NP,City of San Diego,15030 Sycamore Trail Rd.,Stonebridge Park
+645,TORREY HIGHLANDS NP,City of San Diego,"4450 Lansdale Dr., 92130",Torrey Highlands Park
+646,SOUTH CREST TRAILS NP,City of San Diego,"3605 BETA ST, 92113",South Crest Trails Park
+647,PETWAY NP,City of San Diego,"1367 RIGEL ST, 92113",Petway Park
+648,CARMEL KNOLLLS NP,City of San Diego,"4850 Carmel Knolls Dr., 92130",Carmel Knollls Park
+649,"SCRIPPS, ELLEN B NP",City of San Diego,"1146 COAST BLVD, 92037","Scripps, Ellen B Park"
+650,CLIFFRIDGE NP,City of San Diego,"8301 CLIFFRIDGE AVE, 92037",Cliffridge Park
+651,LAUREATE/MATA PARK MP,City of San Diego,"2219 AVE DE LA PLAYA, 92037",Laureate/Mata Park
+652,VILLA LA JOLLA NP,City of San Diego,"8341 VIA MALLORCA, 92037",Villa La Jolla Park
+653,TUXEDO NP,City of San Diego,"6978 Tuxedo Rd., 92119",Tuxedo Park
+654,PALISADES NORTH NP,City of San Diego,"4937 OCEAN BLVD, 92109",Palisades North Park
+655,WESTERN HILLS NP,City of San Diego,"4810 Kane Street, 92110",Western Hills Park
+656,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+657,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+658,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+659,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+660,DEL MAR MESA OS,City of San Diego,,Del Mar Mesa Open Space
+661,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+662,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+663,SWITZER OS,City of San Diego,,Switzer Open Space
+664,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+665,BUTTERFLY MP,City of San Diego,"11885 Cypress Canyon Rd., 92131",Butterfly Park
+666,CARMEL VIEW MP,City of San Diego,"3764 VALLEY CENTRE DR,92130",Carmel View Park
+667,IMPERIAL MARKET PLACE,City of San Diego,"4475 Imperial Ave, 92113",Imperial Market Place
+668,BEYER CP,City of San Diego,"2300 E. Beyer Blvd., 92173",Beyer Park
+669,CHEROKEE POINT NP,City of San Diego,"3901 Landis St. , 92105",Cherokee Point Park
+670,SYCAMORE CANYON NP,City of San Diego,,Sycamore Canyon Park
+671,MORLEY GREEN MP,City of San Diego,,Morley Green Park
+672,EDWARD TYLER CRAMER NP,City of San Diego,,Edward Tyler Cramer Park
+673,CANON STREET MP,City of San Diego,,Canon Street Park
+674,COAST VIEW MP,City of San Diego,,Coast View Park
+675,SAN YSIDRO MP,City of San Diego,,San Ysidro Park
+676,PASATIEMPO NP,City of San Diego,,Pasatiempo Park
+677,BEDLOW NP,City of San Diego,,Bedlow Park
+678,OTAY MITIGATION SITE,City of San Diego,,Otay Mitigation Site
+679,SWITZER OS,City of San Diego,,Switzer Open Space
+680,EAST GATE MP #1,City of San Diego,"9639 TOWNE CENTRE DR, 92121",East Gate Park #1
+681,G ST MP,City of San Diego,"302 G ST , 92101",G St Park
+682,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+683,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+684,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+685,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+686,UNIVERSITY HEIGHTS OS PARK,City of San Diego,,University Heights Open Space Park
+687,MISSION VALLEY HILLSIDES OS,City of San Diego,,Mission Valley Hillsides Open Space
+688,CREST CANYON OS PARK,City of San Diego,,Crest Canyon Open Space Park
+689,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+690,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+691,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+692,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+693,BANKERS HILL CANYON OS,City of San Diego,,Bankers Hill Canyon Open Space
+694,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+695,SWITZER OS,City of San Diego,,Switzer Open Space
+696,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+697,LA ZANJA CANYON OS,City of San Diego,,La Zanja Canyon Open Space
+698,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+699,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+700,SWITZER OS,City of San Diego,,Switzer Open Space
+701,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+702,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+703,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+704,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+705,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+706,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+707,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+708,CARMEL GROVE NP,City of San Diego,"3799 Carmel View Road,",Carmel Grove Park
+709,CARMEL VALLEY NP,City of San Diego,"4468 CARMEL CENTER RD, 92130",Carmel Valley Park
+710,ASHLEY FALLS NP,City of San Diego,"13030 Ashley Falls Drive., 92130",Ashley Falls Park
+711,CARMEL CREEK NP,City of San Diego,"4260 Carmel Center Road, 92103",Carmel Creek Park
+712,CARMEL VALLEY CVREP,City of San Diego,,Carmel Valley Cvrep
+713,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+714,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+715,SWITZER OS,City of San Diego,,Switzer Open Space
+716,CARMEL VALLEY CVREP,City of San Diego,,Carmel Valley Cvrep
+717,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+718,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+719,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+720,WEISS MANDELL EASTGT NP,City of San Diego,"4202 EXECUTIVE DR, 92037",Weiss Mandell Eastgt Park
+721,CORRIDOR NP,City of San Diego,"4004 DEL MAR TRAILS RD, 92130",Corridor Park
+722,CORTE PLAYA SAN JUAN MP,City of San Diego,"5111 Corte Playa San Juan, 92124",Corte Playa San Juan Park
+723,CUVIER MP,City of San Diego,"528 COAST BLVD, 92037",Cuvier Park
+724,CYPRESS VALLEY MP,City of San Diego,"11871 Stonedale Ct., 92131",Cypress Valley Park
+725,OCEAN BEACH ATHLETIC AREA ROBB FIELD,City of San Diego,"2525 Bacon Street, 92107",Ocean Beach Athletic Area Robb Field
+726,HOYT NP,City of San Diego,"10805 CANYON LAKE DR, 92131",Hoyt Park
+727,MISSION BAY ATHLETIC AREA,City of San Diego,"2697 GRAND AVE, 92109",Mission Bay Athletic Area
+728,PEARLMAN MP,City of San Diego,"5404 Carmel Knolls Dr., 92130",Pearlman Park
+729,SARATOGA  NP,City of San Diego,"5151 SARATOGA AVE, 92107",Saratoga  Park
+730,SOLEDAD NATURAL PARK,City of San Diego,"7016 SOLEDAD PARK RD, 92037",Soledad Natural Park
+731,TWEET ST MP,City of San Diego,"1696 8TH AVE, 92101",Tweet St Park
+732,VAIL CREEK NP,City of San Diego,"5116 CARMEL KNOLLS DR, 92130",Vail Creek Park
+733,VIA PLAYA LOS SANTOS MP,City of San Diego,"5112 Via Playa Los Santos, 92124",Via Playa Los Santos Park
+734,WALLS OF EXCELLENCE MP,City of San Diego,"4932 IMPERIAL AVE, 92102",Walls Of Excellence Park
+735,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+736,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+737,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+738,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+739,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+740,NAVAJO CANYON OS PARK,City of San Diego,,Navajo Canyon Open Space Park
+741,CHOLLAS PARKWAY OS,City of San Diego,,Chollas Parkway Open Space
+742,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+743,CLEAR. SITE 691,City of San Diego,,Clear. Site 691
+744,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+745,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+746,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+747,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+748,OTAY MITIGATION SITE,City of San Diego,,Otay Mitigation Site
+749,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+750,DUSTY RHODES NP,City of San Diego,"2500 SUNSET CLIFFS BLVD,92107",Dusty Rhodes Park
+751,EAST GATE MP #2,City of San Diego,"9825 TOWNE CENTRE DR, 92121",East Gate Park #2
+752,GRANTVILLE NP,City of San Diego,"4645 VANDEVER AVE, 92120",Grantville Park
+753,WINTERWOOD LANE NP,City of San Diego,"7540 WINTERWOOD LN, 92126",Winterwood Lane Park
+754,MCAULIFFE SHARON CP,City of San Diego,"7540 WINTERWOOD LN, 92126",Mcauliffe Sharon Park
+755,MCCAIN MP,City of San Diego,"3032 39TH ST, 92105",Mccain Park
+756,NEIGHBORHOOD 8 NP,City of San Diego,"11900 Carmel Creek RD,92130",Neighborhood 8 Park
+757,CENTRUM NP,City of San Diego,8650 SPECTRUM CENTER BLVD,Centrum Park
+758,WARD CANYON NP,City of San Diego,"4642 40TH ST, 92116",Ward Canyon Park
+759,GOLDEN HILL CP,City of San Diego,2600 Golf Course Dr. 92102,Golden Hill Park
+760,CHILDRENS PARK,City of San Diego,"155 W ISLAND AVE, 92101",Childrens Park
+761,SUN RIDGE VISTA MINI-PARK,City of San Diego,,Sun Ridge Vista Mini-Park
+762,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+763,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+764,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+765,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+766,CARROLL CANYON OS,City of San Diego,,Carroll Canyon Open Space
+767,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+768,CLEAR. SITE 645,City of San Diego,,Clear. Site 645
+769,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+770,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+771,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+772,MISSION VALLEY HILLSIDES OS,City of San Diego,,Mission Valley Hillsides Open Space
+773,CLEAR. SITE 762,City of San Diego,,Clear. Site 762
+774,SWITZER OS,City of San Diego,,Switzer Open Space
+775,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+776,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+777,ROSE CANYON OS,City of San Diego,,Rose Canyon Open Space
+778,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+779,CLEAR. SITE 571,City of San Diego,,Clear. Site 571
+780,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+781,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+782,NAVAJO CANYON OS PARK,City of San Diego,,Navajo Canyon Open Space Park
+783,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+784,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+785,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+786,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+787,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+788,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+789,UPTOWN OS,City of San Diego,,Uptown Open Space
+790,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+791,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+792,SAN DIEGO RIVER PARK OS,City of San Diego,,San Diego River Park Open Space
+793,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+794,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+795,SOUTH BAY TERRACES OS,City of San Diego,,South Bay Terraces Open Space
+796,BLACK MOUNTAIN RANCH OS,City of San Diego,,Black Mountain Ranch Open Space
+797,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+798,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+799,KENSINGTON/COLLEGE OS,City of San Diego,,Kensington/College Open Space
+800,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+801,KENSINGTON/COLLEGE OS,City of San Diego,,Kensington/College Open Space
+802,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+803,MID-CITY OS,City of San Diego,,Mid-City Open Space
+804,CYPRESS CANYON OS,City of San Diego,,Cypress Canyon Open Space
+805,SWITZER OS,City of San Diego,,Switzer Open Space
+806,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+807,SWITZER OS,City of San Diego,,Switzer Open Space
+808,MCGONIGLE CANYON OS,City of San Diego,,Mcgonigle Canyon Open Space
+809,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+810,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+811,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+812,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+813,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+814,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+815,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+816,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+817,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+818,ROSE CANYON OS,City of San Diego,,Rose Canyon Open Space
+819,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+820,OLD TROLLEY BARN PARK,City of San Diego,,Old Trolley Barn Park
+821,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+822,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+823,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+824,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+825,CREST CANYON OS PARK,City of San Diego,,Crest Canyon Open Space Park
+826,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+827,LA ZANJA CANYON OS,City of San Diego,,La Zanja Canyon Open Space
+828,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+829,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+830,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+831,SWITZER OS,City of San Diego,,Switzer Open Space
+832,UPTOWN OS,City of San Diego,,Uptown Open Space
+833,KENSINGTON/COLLEGE OS,City of San Diego,,Kensington/College Open Space
+834,PRESIDIO OS,City of San Diego,,Presidio Open Space
+835,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+836,SWITZER OS,City of San Diego,,Switzer Open Space
+837,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+838,NORTH CITY WEST OS,City of San Diego,,North City West Open Space
+839,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+840,CARROLL CANYON OS,City of San Diego,,Carroll Canyon Open Space
+841,RADIO CANYON EXTENSION OS,City of San Diego,,Radio Canyon Extension Open Space
+842,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+843,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+844,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+845,TORREY HILLS OS,City of San Diego,,Torrey Hills Open Space
+846,DEL MAR MESA OS,City of San Diego,,Del Mar Mesa Open Space
+847,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+848,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+849,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+850,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+851,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+852,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+853,SORRENTO HILLS OS,City of San Diego,,Sorrento Hills Open Space
+854,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+855,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+856,SOUTH BAY TERRACES OS,City of San Diego,,South Bay Terraces Open Space
+857,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+858,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+859,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+860,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+861,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+862,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+863,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+864,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+865,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+866,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+867,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+868,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+869,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+870,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+871,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+872,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+873,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+874,FAIRBANKS COUNTRY CLUB OS,City of San Diego,,Fairbanks Country Club Open Space
+875,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+876,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+877,UPTOWN OS,City of San Diego,,Uptown Open Space
+878,UPTOWN OS,City of San Diego,,Uptown Open Space
+879,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+880,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+881,SOLEDAD NATURAL OS PARK,City of San Diego,,Soledad Natural Open Space Park
+882,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+883,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+884,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+885,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+886,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+887,CERVANTES CANYON OS,City of San Diego,,Cervantes Canyon Open Space
+888,CREST CANYON OS PARK,City of San Diego,,Crest Canyon Open Space Park
+889,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+890,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+891,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+892,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+893,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+894,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+895,PARADISE CANYON PARK,City of San Diego,,Paradise Canyon Park
+896,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+897,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+898,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+899,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+900,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+901,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+902,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+903,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+904,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+905,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+906,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+907,FAMOSA SLOUGH,City of San Diego,,Famosa Slough
+908,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+909,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+910,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+911,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+912,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+913,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+914,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+915,CAMPUS POINT OS,City of San Diego,,Campus Point Open Space
+916,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+917,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+918,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+919,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+920,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+921,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+922,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+923,LA ZANJA CANYON OS,City of San Diego,,La Zanja Canyon Open Space
+924,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+925,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+926,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+927,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+928,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+929,KENSINGTON HILLSIDES OS,City of San Diego,,Kensington Hillsides Open Space
+930,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+931,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+932,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+933,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+934,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+935,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+936,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+937,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+938,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+939,OLD TROLLEY BARN PARK,City of San Diego,,Old Trolley Barn Park
+940,MCGONIGLE CANYON OS,City of San Diego,,Mcgonigle Canyon Open Space
+941,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+942,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+943,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+944,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+945,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+946,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+947,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+948,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+949,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+950,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+951,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+952,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+953,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+954,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+955,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+956,SWITZER OS,City of San Diego,,Switzer Open Space
+957,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+958,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+959,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+960,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+961,EUGENE PLACE OS,City of San Diego,,Eugene Place Open Space
+962,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+963,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+964,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+965,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+966,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+967,LOPEZ CANYON OS,City of San Diego,,Lopez Canyon Open Space
+968,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+969,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+970,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+971,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+972,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+973,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+974,FAIRBANKS COUNTRY CLUB OS,City of San Diego,,Fairbanks Country Club Open Space
+975,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+976,MID-CITY OS,City of San Diego,,Mid-City Open Space
+977,SOLEDAD NATURAL OS PARK,City of San Diego,,Soledad Natural Open Space Park
+978,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+979,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+980,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+981,KENSINGTON/COLLEGE OS,City of San Diego,,Kensington/College Open Space
+982,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+983,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+984,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+985,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+986,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+987,MISSION VALLEY HILLSIDES OS,City of San Diego,,Mission Valley Hillsides Open Space
+988,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+989,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+990,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+991,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+992,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+993,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+994,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+995,MCGONIGLE CANYON OS,City of San Diego,,Mcgonigle Canyon Open Space
+996,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+997,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+998,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+999,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1000,LA JOLLA OS,City of San Diego,,La Jolla Open Space
+1001,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1002,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1003,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1004,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1005,CREST CANYON OS PARK,City of San Diego,,Crest Canyon Open Space Park
+1006,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+1007,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1008,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1009,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1010,SWITZER OS,City of San Diego,,Switzer Open Space
+1011,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1012,PACIFIC BEACH OS,City of San Diego,,Pacific Beach Open Space
+1013,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1014,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1015,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1016,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1017,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1018,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1019,SOUTH BAY TERRACES OS,City of San Diego,,South Bay Terraces Open Space
+1020,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+1021,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1022,CHOLLAS PARKWAY OS,City of San Diego,,Chollas Parkway Open Space
+1023,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1024,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1025,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1026,OTAY MESA VERNAL POOL OS,City of San Diego,,Otay Mesa Vernal Pool Open Space
+1027,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1028,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1029,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1030,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1031,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1032,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1033,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+1034,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+1035,POTTERY CANYON NATURAL OS PARK,City of San Diego,,Pottery Canyon Natural Open Space Park
+1036,MISSION HILLS OS PARK,City of San Diego,,Mission Hills Open Space Park
+1037,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1038,SOUTH BAY TERRACES OS,City of San Diego,,South Bay Terraces Open Space
+1039,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+1040,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1041,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1042,NORTH CITY WEST OS,City of San Diego,,North City West Open Space
+1043,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1044,LA JOLLA OS,City of San Diego,,La Jolla Open Space
+1045,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1046,CHOLLAS PARKWAY OS,City of San Diego,,Chollas Parkway Open Space
+1047,LOS PENASQUITOS CANYON VERNAL POOL OS,City of San Diego,,Los Penasquitos Canyon Vernal Pool Open Space
+1048,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1049,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1050,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1051,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1052,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1053,DEL MAR MESA OS,City of San Diego,,Del Mar Mesa Open Space
+1054,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+1055,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1056,TORREY HILLS OS,City of San Diego,,Torrey Hills Open Space
+1057,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1058,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1059,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1060,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1061,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1062,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1063,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1064,NORTH CITY WEST OS,City of San Diego,,North City West Open Space
+1065,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1066,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1067,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1068,UPTOWN OS,City of San Diego,,Uptown Open Space
+1069,HAMPE HILLS OS,City of San Diego,,Hampe Hills Open Space
+1070,VALENCIA CANYON OS,City of San Diego,,Valencia Canyon Open Space
+1071,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1072,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1073,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1074,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+1075,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1076,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1077,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1078,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1079,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1080,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+1081,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1082,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1083,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1084,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1085,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+1086,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1087,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1088,MCGONIGLE CANYON OS,City of San Diego,,Mcgonigle Canyon Open Space
+1089,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+1090,LA JOLLA OS,City of San Diego,,La Jolla Open Space
+1091,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1092,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1093,NORTH CITY WEST OS,City of San Diego,,North City West Open Space
+1094,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1095,DEL MAR MESA MITIGATION,City of San Diego,,Del Mar Mesa Mitigation
+1096,DEL MAR MESA MITIGATION,City of San Diego,,Del Mar Mesa Mitigation
+1097,DEL MAR MESA OS,City of San Diego,,Del Mar Mesa Open Space
+1098,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+1099,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+1100,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1101,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1102,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1103,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1104,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1105,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1106,SWITZER OS,City of San Diego,,Switzer Open Space
+1107,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1108,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1109,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1110,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1111,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+1112,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1113,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1114,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1115,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1116,BAY RIDGE OS,City of San Diego,,Bay Ridge Open Space
+1117,PACIFIC BEACH OS,City of San Diego,,Pacific Beach Open Space
+1118,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1119,UPTOWN OS,City of San Diego,,Uptown Open Space
+1120,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1121,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1122,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1123,SAN CARLOS GOLF COURSE,City of San Diego,,San Carlos Golf Course
+1124,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1125,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1126,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+1127,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1128,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1129,SERRA MESA OS,City of San Diego,,Serra Mesa Open Space
+1130,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1131,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+1132,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1133,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1134,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1135,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1136,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1137,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1138,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1139,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1140,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1141,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1142,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1143,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1144,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1145,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1146,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1147,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1148,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1149,CARMEL VALLEY CVREP,City of San Diego,,Carmel Valley Cvrep
+1150,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1151,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1152,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1153,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+1154,MISSION HILLS OS PARK,City of San Diego,,Mission Hills Open Space Park
+1155,EUGENE PLACE OS,City of San Diego,,Eugene Place Open Space
+1156,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1157,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1158,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1159,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1160,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1161,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1162,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1163,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+1164,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+1165,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1166,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1167,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1168,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1169,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1170,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1171,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1172,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+1173,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1174,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1175,LA ZANJA CANYON OS,City of San Diego,,La Zanja Canyon Open Space
+1176,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1177,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1178,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1179,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1180,LOS PENASQUITOS CANYON VERNAL POOL OS,City of San Diego,,Los Penasquitos Canyon Vernal Pool Open Space
+1181,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1182,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+1183,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1184,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1185,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1186,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1187,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1188,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1189,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1190,ROSE CANYON OS,City of San Diego,,Rose Canyon Open Space
+1191,MID-CITY OS,City of San Diego,,Mid-City Open Space
+1192,UPTOWN OS,City of San Diego,,Uptown Open Space
+1193,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1194,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+1195,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1196,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1197,CARMEL MOUNTAIN RANCH OS,City of San Diego,,Carmel Mountain Ranch Open Space
+1198,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1199,KENSINGTON/COLLEGE OS,City of San Diego,,Kensington/College Open Space
+1200,CHOLLAS PARKWAY OS,City of San Diego,,Chollas Parkway Open Space
+1201,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1202,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1203,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+1204,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1205,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1206,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1207,SERRA MESA OS,City of San Diego,,Serra Mesa Open Space
+1208,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1209,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1210,SORRENTO HILLS OS,City of San Diego,,Sorrento Hills Open Space
+1211,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1212,CLEAR. SITE 536,City of San Diego,,Clear. Site 536
+1213,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1214,KENSINGTON/COLLEGE OS,City of San Diego,,Kensington/College Open Space
+1215,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+1216,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1217,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1218,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1219,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1220,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1221,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1222,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1223,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1224,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1225,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1226,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1227,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+1228,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1229,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1230,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1231,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+1232,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1233,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1234,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1235,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1236,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1237,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1238,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+1239,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1240,PARADISE CANYON PARK,City of San Diego,,Paradise Canyon Park
+1241,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1242,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1243,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1244,UPTOWN OS,City of San Diego,,Uptown Open Space
+1245,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1246,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1247,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1248,MT WOODSON OS,City of San Diego,,Mt Woodson Open Space
+1249,LA ZANJA CANYON OS,City of San Diego,,La Zanja Canyon Open Space
+1250,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1251,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1252,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1253,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1254,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1255,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1256,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1257,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1258,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1259,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1260,CLEAR. SITE 642,City of San Diego,,Clear. Site 642
+1261,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1262,OLD TROLLEY BARN PARK,City of San Diego,,Old Trolley Barn Park
+1263,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1264,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1265,MISSION HILLS OS PARK,City of San Diego,,Mission Hills Open Space Park
+1266,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1267,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+1268,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1269,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+1270,HAMPE HILLS OS,City of San Diego,,Hampe Hills Open Space
+1271,DEL MAR MESA OS,City of San Diego,,Del Mar Mesa Open Space
+1272,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1273,LOPEZ CANYON OS,City of San Diego,,Lopez Canyon Open Space
+1274,DEL CERRO OS,City of San Diego,,Del Cerro Open Space
+1275,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1276,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1277,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+1278,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1279,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1280,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+1281,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1282,UPTOWN OS,City of San Diego,,Uptown Open Space
+1283,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1284,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1285,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1286,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1287,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+1288,UPTOWN OS,City of San Diego,,Uptown Open Space
+1289,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1290,SOUTH BAY TERRACES OS,City of San Diego,,South Bay Terraces Open Space
+1291,DEL MAR MESA MITIGATION,City of San Diego,,Del Mar Mesa Mitigation
+1292,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1293,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1294,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1295,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1296,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1297,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1298,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1299,CARMEL MISSION PARK,City of San Diego,,Carmel Mission Park
+1300,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1301,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1302,OCEAN VIEW HILLS OS,City of San Diego,,Ocean View Hills Open Space
+1303,SOUTH BAY TERRACES OS,City of San Diego,,South Bay Terraces Open Space
+1304,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1305,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1306,SOLEDAD NATURAL OS PARK,City of San Diego,,Soledad Natural Open Space Park
+1307,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1308,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1309,NAVAJO CANYON OS PARK,City of San Diego,,Navajo Canyon Open Space Park
+1310,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1311,FAMOSA SLOUGH,City of San Diego,,Famosa Slough
+1312,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1313,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1314,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1315,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1316,SWITZER OS,City of San Diego,,Switzer Open Space
+1317,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1318,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1319,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1320,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+1321,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1322,BANKERS HILL CANYON OS,City of San Diego,,Bankers Hill Canyon Open Space
+1323,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1324,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+1325,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1326,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1327,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1328,LA ZANJA CANYON OS,City of San Diego,,La Zanja Canyon Open Space
+1329,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1330,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1331,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+1332,OTAY MITIGATION SITE,City of San Diego,,Otay Mitigation Site
+1333,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1334,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1335,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1336,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1337,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1338,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1339,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1340,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1341,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1342,NORTH CITY WEST OS,City of San Diego,,North City West Open Space
+1343,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1344,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+1345,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1346,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1347,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1348,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1349,MID-CITY OS,City of San Diego,,Mid-City Open Space
+1350,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+1351,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1352,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+1353,TIERRASANTA OS,City of San Diego,,Tierrasanta Os
+1354,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1355,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1356,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1357,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1358,MISSION TRAILS OS,City of San Diego,,Mission Trails Os
+1359,MISSION TRAILS OS,City of San Diego,,Mission Trails Os
+1360,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1361,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1362,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1363,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1364,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1365,KENSINGTON/COLLEGE OS,City of San Diego,,Kensington/College Open Space
+1366,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1367,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+1368,SWITZER OS,City of San Diego,,Switzer Open Space
+1369,CYPRESS CANYON OS,City of San Diego,,Cypress Canyon Open Space
+1370,NAVAJO CANYON OS PARK,City of San Diego,,Navajo Canyon Open Space Park
+1371,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+1372,CLEAR. SITE 641,City of San Diego,,Clear. Site 641
+1373,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1374,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1375,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1376,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1377,FAIRBANKS RANCH COUNTRY CLUB,City of San Diego,,Fairbanks Ranch Country Club
+1378,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1379,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1380,SWITZER OS,City of San Diego,,Switzer Open Space
+1381,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1382,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1383,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1384,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+1385,SWITZER OS,City of San Diego,,Switzer Open Space
+1386,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1387,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1388,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1389,MID-CITY OS,City of San Diego,,Mid-City Open Space
+1390,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1391,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1392,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+1393,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1394,CARMEL VALLEY CVREP,City of San Diego,,Carmel Valley Cvrep
+1395,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1396,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1397,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1398,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1399,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1400,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1401,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+1402,BLACK MOUNTAIN RANCH OS,City of San Diego,,Black Mountain Ranch Open Space
+1403,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1404,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1405,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1406,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1407,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1408,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+1409,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1410,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1411,ENCANTO PARK,City of San Diego,,Encanto Park
+1412,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+1413,LA JOLLA OS,City of San Diego,,La Jolla Open Space
+1414,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1415,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1416,MISSION HILLS OS PARK,City of San Diego,,Mission Hills Open Space Park
+1417,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1418,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1419,DEL MAR MESA VERNAL POOL OS,City of San Diego,,Del Mar Mesa Vernal Pool Open Space
+1420,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1421,LA ZANJA CANYON OS,City of San Diego,,La Zanja Canyon Open Space
+1422,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1423,EUGENE PLACE OS,City of San Diego,,Eugene Place Open Space
+1424,SOUTH BAY TERRACES OS,City of San Diego,,South Bay Terraces Open Space
+1425,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1426,DEL MAR MESA MITIGATION,City of San Diego,,Del Mar Mesa Mitigation
+1427,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+1428,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1429,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1430,CYPRESS CANYON OS,City of San Diego,,Cypress Canyon Open Space
+1431,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1432,DEL MAR MESA OS,City of San Diego,,Del Mar Mesa Open Space
+1433,CLEAR. SITE 397,City of San Diego,,Clear. Site 397
+1434,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1435,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1436,BANKERS HILL CANYON OS,City of San Diego,,Bankers Hill Canyon Open Space
+1437,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1438,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+1439,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1440,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1441,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1442,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1443,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1444,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1445,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1446,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1447,SWITZER OS,City of San Diego,,Switzer Open Space
+1448,UPTOWN OS,City of San Diego,,Uptown Open Space
+1449,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+1450,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1451,CLEAR. SITE 535,City of San Diego,,Clear. Site 535
+1452,MID-CITY OS,City of San Diego,,Mid-City Open Space
+1453,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+1454,SWITZER OS,City of San Diego,,Switzer Open Space
+1455,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1456,CAMPUS POINT OS,City of San Diego,,Campus Point Open Space
+1457,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1458,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1459,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1460,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1461,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1462,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1463,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1464,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1465,PENASQUITOS LAGOON OS,City of San Diego,,Penasquitos Lagoon Open Space
+1466,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1467,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1468,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1469,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1470,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1471,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1472,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1473,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1474,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1475,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1476,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1477,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1478,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1479,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1480,Salk Neighborhood Park & Joint Use Facility,City of San Diego,"Flanders Dr. & Parkdale Av., Southwest of",Salk Neighborhood Park & Joint Use Facility
+1481,FAIRBANKS COUNTRY CLUB OS,City of San Diego,,Fairbanks Country Club Open Space
+1482,KENSINGTON/COLLEGE OS,City of San Diego,,Kensington/College Open Space
+1483,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1484,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1485,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1486,LUDINGTON HEIGHTS OS PARK,City of San Diego,,Ludington Heights Open Space Park
+1487,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1488,SORRENTO HILLS OS,City of San Diego,,Sorrento Hills Open Space
+1489,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1490,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1491,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1492,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1493,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+1494,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1495,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1496,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1497,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1498,SWITZER OS,City of San Diego,,Switzer Open Space
+1499,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1500,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1501,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+1502,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1503,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1504,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1505,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+1506,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1507,DEL MAR MESA MITIGATION,City of San Diego,,Del Mar Mesa Mitigation
+1508,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1509,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1510,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1511,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1512,CAMPUS POINT OS,City of San Diego,,Campus Point Open Space
+1513,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1514,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1515,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1516,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1517,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1518,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+1519,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1520,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1521,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1522,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1523,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1524,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1525,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+1526,CHOLLAS PARKWAY OS,City of San Diego,,Chollas Parkway Open Space
+1527,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1528,MID-CITY OS,City of San Diego,,Mid-City Open Space
+1529,MISSION HILLS OS PARK,City of San Diego,,Mission Hills Open Space Park
+1530,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1531,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1532,UPTOWN OS,City of San Diego,,Uptown Open Space
+1533,NAVAJO CANYON OS PARK,City of San Diego,,Navajo Canyon Open Space Park
+1534,EUGENE PLACE OS,City of San Diego,,Eugene Place Open Space
+1535,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1536,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1537,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1538,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1539,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1540,BANKERS HILL CANYON OS,City of San Diego,,Bankers Hill Canyon Open Space
+1541,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1542,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1543,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1544,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1545,TALMADGE HILLSIDES OS,City of San Diego,,Talmadge Hillsides Open Space
+1546,MID-CITY OS,City of San Diego,,Mid-City Open Space
+1547,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1548,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+1549,MCGONIGLE CANYON OS,City of San Diego,,Mcgonigle Canyon Open Space
+1550,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1551,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1552,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1553,UPTOWN OS,City of San Diego,,Uptown Open Space
+1554,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1555,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1556,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+1557,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1558,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1559,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1560,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1561,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1562,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1563,DEL MAR MESA OS,City of San Diego,,Del Mar Mesa Open Space
+1564,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1565,CANYON VIEW PARK,City of San Diego,,Canyon View Park
+1566,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1567,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1568,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1569,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1570,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1571,MID-CITY OS,City of San Diego,,Mid-City Open Space
+1572,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1573,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1574,KENSINGTON/COLLEGE OS,City of San Diego,,Kensington/College Open Space
+1575,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1576,NAVAJO CANYON OS PARK,City of San Diego,,Navajo Canyon Open Space Park
+1577,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1578,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1579,KENSINGTON HILLSIDES OS,City of San Diego,,Kensington Hillsides Open Space
+1580,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1581,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1582,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1583,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1584,DEL MAR MESA OS,City of San Diego,,Del Mar Mesa Open Space
+1585,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1586,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1587,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1588,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1589,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+1590,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1591,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1592,LA ZANJA CANYON OS,City of San Diego,,La Zanja Canyon Open Space
+1593,TORREY HIGHLANDS VERNAL POOL OS,City of San Diego,,Torrey Highlands Vernal Pool Open Space
+1594,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+1595,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+1596,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1597,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1598,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1599,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1600,CARMEL MOUNTAIN RANCH OS,City of San Diego,,Carmel Mountain Ranch Open Space
+1601,MCGONIGLE CANYON OS,City of San Diego,,Mcgonigle Canyon Open Space
+1602,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1603,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+1604,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1605,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1606,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1607,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1608,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1609,UNIVERSITY HEIGHTS OS PARK,City of San Diego,,University Heights Open Space Park
+1610,FAIRBANKS COUNTRY CLUB OS,City of San Diego,,Fairbanks Country Club Open Space
+1611,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1612,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+1613,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+1614,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1615,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+1616,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1617,UPTOWN OS,City of San Diego,,Uptown Open Space
+1618,DEL MAR MESA MITIGATION,City of San Diego,,Del Mar Mesa Mitigation
+1619,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+1620,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+1621,SWITZER OS,City of San Diego,,Switzer Open Space
+1622,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1623,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1624,SWITZER OS,City of San Diego,,Switzer Open Space
+1625,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1626,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1627,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1628,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1629,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1630,ENCANTO PARK,City of San Diego,,Encanto Park
+1631,SOLEDAD NATURAL OS PARK,City of San Diego,,Soledad Natural Open Space Park
+1632,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1633,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1634,FAIRBANKS COUNTRY CLUB OS,City of San Diego,,Fairbanks Country Club Open Space
+1635,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1636,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+1637,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1638,SORRENTO HILLS OS,City of San Diego,,Sorrento Hills Open Space
+1639,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+1640,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1641,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1642,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1643,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1644,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1645,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1646,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1647,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1648,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1649,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1650,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1651,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+1652,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+1653,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1654,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1655,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+1656,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1657,OTAY MITIGATION SITE,City of San Diego,,Otay Mitigation Site
+1658,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1659,MID-CITY OS,City of San Diego,,Mid-City Open Space
+1660,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1661,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1662,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1663,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1664,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1665,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1666,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1667,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1668,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1669,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1670,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1671,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1672,CREST CANYON OS PARK,City of San Diego,,Crest Canyon Open Space Park
+1673,GOLDEN HILLS OS,City of San Diego,,Golden Hills Open Space
+1674,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1675,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1676,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1677,SWITZER OS,City of San Diego,,Switzer Open Space
+1678,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1679,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1680,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1681,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1682,CHOLLAS PARKWAY OS,City of San Diego,,Chollas Parkway Open Space
+1683,PENASQUITOS LAGOON OS,City of San Diego,,Penasquitos Lagoon Open Space
+1684,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1685,LA JOLLA BLUEBIRD CANYON OS,City of San Diego,,La Jolla Bluebird Canyon Open Space
+1686,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1687,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1688,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1689,MCGONIGLE CANYON OS,City of San Diego,,Mcgonigle Canyon Open Space
+1690,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1691,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1692,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1693,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1694,UPTOWN OS,City of San Diego,,Uptown Open Space
+1695,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1696,SOLEDAD NATURAL OS PARK,City of San Diego,,Soledad Natural Open Space Park
+1697,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1698,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1699,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1700,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1701,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1702,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1703,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1704,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1705,UPTOWN OS,City of San Diego,,Uptown Open Space
+1706,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1707,GUYMON ARMS CANYON OS,City of San Diego,,Guymon Arms Canyon Open Space
+1708,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1709,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1710,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1711,BLACK MOUNTAIN RANCH OS,City of San Diego,,Black Mountain Ranch Open Space
+1712,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1713,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1714,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1715,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1716,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1717,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1718,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+1719,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1720,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1721,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1722,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1723,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1724,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1725,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1726,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1727,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1728,LOPEZ CANYON OS,City of San Diego,,Lopez Canyon Open Space
+1729,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1730,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1731,MID-CITY OS,City of San Diego,,Mid-City Open Space
+1732,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1733,CREST CANYON OS PARK,City of San Diego,,Crest Canyon Open Space Park
+1734,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1735,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1736,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1737,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1738,CARMEL VALLEY CVREP,City of San Diego,,Carmel Valley Cvrep
+1739,RADIO CANYON EXTENSION OS,City of San Diego,,Radio Canyon Extension Open Space
+1740,UPTOWN OS,City of San Diego,,Uptown Open Space
+1741,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1742,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1743,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1744,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1745,CARMEL MOUNTAIN RANCH OS,City of San Diego,,Carmel Mountain Ranch Open Space
+1746,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1747,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1748,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1749,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1750,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+1751,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1752,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1753,CREST CANYON OS PARK,City of San Diego,,Crest Canyon Open Space Park
+1754,CREST CANYON OS PARK,City of San Diego,,Crest Canyon Open Space Park
+1755,MISSION VALLEY HILLSIDES OS,City of San Diego,,Mission Valley Hillsides Open Space
+1756,UPTOWN OS,City of San Diego,,Uptown Open Space
+1757,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1758,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1759,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1760,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+1761,MID-CITY OS,City of San Diego,,Mid-City Open Space
+1762,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1763,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1764,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1765,LA ZANJA CANYON OS,City of San Diego,,La Zanja Canyon Open Space
+1766,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+1767,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1768,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1769,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1770,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+1771,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1772,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1773,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1774,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1775,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1776,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1777,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1778,MCGONIGLE CANYON OS,City of San Diego,,Mcgonigle Canyon Open Space
+1779,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+1780,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1781,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1782,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1783,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1784,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+1785,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1786,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1787,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1788,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1789,DEL MAR MESA OS,City of San Diego,,Del Mar Mesa Open Space
+1790,DEL MAR MESA OS,City of San Diego,,Del Mar Mesa Open Space
+1791,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1792,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1793,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1794,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1795,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1796,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1797,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+1798,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+1799,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1800,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1801,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1802,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1803,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1804,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1805,KENSINGTON/COLLEGE OS,City of San Diego,,Kensington/College Open Space
+1806,SANDROCK CANYON OS PARK,City of San Diego,,Sandrock Canyon Open Space Park
+1807,FAMOSA SLOUGH,City of San Diego,,Famosa Slough
+1808,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1809,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1810,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1811,EUGENE PLACE OS,City of San Diego,,Eugene Place Open Space
+1812,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+1813,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1814,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1815,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1816,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1817,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1818,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1819,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1820,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1821,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1822,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1823,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1824,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1825,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1826,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1827,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1828,NAVAJO CANYON OS PARK,City of San Diego,,Navajo Canyon Open Space Park
+1829,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1830,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1831,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1832,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1833,BATTLE MOUNTAIN OS,City of San Diego,,Battle Mountain Open Space
+1834,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1835,BATTLE MOUNTAIN OS,City of San Diego,,Battle Mountain Open Space
+1836,BATTLE MOUNTAIN OS,City of San Diego,,Battle Mountain Open Space
+1837,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1838,RANCHO DEL ORO PARK,City of Oceanside,COLLEGE AND EMPRESSA,Rancho Del Oro Park
+1839,WOMEN'S CLUB PARK,City of Oceanside,MISSION AND BROOKS,Women'S Club Park
+1840,MARSHALL ST SWIM CTR & PARK,City of Oceanside,1404 MARSHAL STREET,Marshall St Swim Ctr & Park
+1841,BUCCANEER PARK,City of Oceanside,1506 SOUTH PACIFIC STREET,Buccaneer Park
+1842,BOYS' & GIRLS' CLUB,City of Oceanside,,Boys' & Girls' Club
+1843,CAPISTRANO PARK,City of Oceanside,770 CAPISTRANO DRIVE,Capistrano Park
+1844,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1845,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1846,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1847,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1848,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+1849,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1850,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1851,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1852,CARMEL VALLEY CVREP,City of San Diego,,Carmel Valley Cvrep
+1853,SWITZER OS,City of San Diego,,Switzer Open Space
+1854,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+1855,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1856,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+1857,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1858,CARROLL CANYON OS,City of San Diego,,Carroll Canyon Open Space
+1859,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1860,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1861,PASATIEMPO PARK WEST OS,City of San Diego,,Pasatiempo Park West Open Space
+1862,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1863,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1864,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1865,DEL MAR MESA OS,City of San Diego,,Del Mar Mesa Open Space
+1866,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1867,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1868,CARROLL CANYON OS,City of San Diego,,Carroll Canyon Open Space
+1869,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1870,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1871,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1872,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1873,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1874,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1875,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1876,SERRA MESA OS,City of San Diego,,Serra Mesa Open Space
+1877,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1878,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1879,LA JOLLA OS,City of San Diego,,La Jolla Open Space
+1880,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1881,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1882,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1883,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1884,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+1885,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1886,UPTOWN OS,City of San Diego,,Uptown Open Space
+1887,CLEAR. SITE 536,City of San Diego,,Clear. Site 536
+1888,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1889,SORRENTO HILLS OS,City of San Diego,,Sorrento Hills Open Space
+1890,VALENCIA CANYON OS,City of San Diego,,Valencia Canyon Open Space
+1891,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1892,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+1893,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1894,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1895,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1896,MISSION HILLS OS PARK,City of San Diego,,Mission Hills Open Space Park
+1897,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1898,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+1899,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1900,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1901,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1902,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1903,LOS PENASQUITOS,City of San Diego,,Los Penasquitos
+1904,SWITZER OS,City of San Diego,,Switzer Open Space
+1905,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1906,PENASQUITOS OS,City of San Diego,,Penasquitos Open Space
+1907,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1908,JOHN LANDES PARK,City of Oceanside,2855 CEDAR ROAD,John Landes Park
+1909,PALISADES PARK,City of Oceanside,RANCHO DEL ORO AND VISTA DEL ORO,Palisades Park
+1910,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+1911,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1912,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1913,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+1914,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1915,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1916,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1917,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+1918,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1919,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1920,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1921,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1922,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1923,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1924,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1925,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1926,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1927,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1928,BATTLE MOUNTAIN OS,City of San Diego,,Battle Mountain Open Space
+1929,PARADISE CANYON PARK,City of San Diego,,Paradise Canyon Park
+1930,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+1931,CHOLLAS PARKWAY OS,City of San Diego,,Chollas Parkway Open Space
+1932,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1933,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1934,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1935,PARADISE CANYON PARK,City of San Diego,,Paradise Canyon Park
+1936,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1937,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1938,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1939,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1940,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1941,LA JOLLA OS,City of San Diego,,La Jolla Open Space
+1942,DEL MAR MESA MITIGATION,City of San Diego,,Del Mar Mesa Mitigation
+1943,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+1944,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1945,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1946,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+1947,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+1948,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1949,MISSION VALLEY HILLSIDES OS,City of San Diego,,Mission Valley Hillsides Open Space
+1950,KENSINGTON/COLLEGE OS,City of San Diego,,Kensington/College Open Space
+1951,NAVAJO CANYON OS PARK,City of San Diego,,Navajo Canyon Open Space Park
+1952,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+1953,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1954,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1955,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1956,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1957,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1958,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1959,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1960,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+1961,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1962,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+1963,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1964,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1965,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1966,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1967,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1968,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+1969,DEL MAR MESA MITIGATION,City of San Diego,,Del Mar Mesa Mitigation
+1970,PENASQUITOS OS,City of San Diego,,Penasquitos Open Space
+1971,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1972,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+1973,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+1974,MCGONIGLE CANYON OS,City of San Diego,,Mcgonigle Canyon Open Space
+1975,POTTERY CANYON NATURAL OS PARK,City of San Diego,,Pottery Canyon Natural Open Space Park
+1976,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1977,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+1978,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+1979,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+1980,SORRENTO HILLS OS,City of San Diego,,Sorrento Hills Open Space
+1981,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+1982,MCGONIGLE CANYON OS,City of San Diego,,Mcgonigle Canyon Open Space
+1983,MISSION VALLEY HILLSIDES OS,City of San Diego,,Mission Valley Hillsides Open Space
+1984,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1985,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1986,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1987,OTAY MITIGATION SITE,City of San Diego,,Otay Mitigation Site
+1988,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+1989,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+1990,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+1991,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+1992,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1993,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+1994,UPTOWN OS,City of San Diego,,Uptown Open Space
+1995,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+1996,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+1997,MID-CITY OS,City of San Diego,,Mid-City Open Space
+1998,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+1999,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2000,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+2001,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2002,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2003,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+2004,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2005,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2006,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+2007,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2008,NAVAJO CANYON OS PARK,City of San Diego,,Navajo Canyon Open Space Park
+2009,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2010,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2011,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2012,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2013,LUISENO PARK,City of Oceanside,1069 TEAL WAY; DOUGLAS & VANDERGRIFT,Luiseno Park
+2014,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2015,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2016,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2017,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2018,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2019,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2020,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2021,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2022,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2023,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+2024,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+2025,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+2026,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+2027,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+2028,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+2029,LA JOLLA HEIGHTS NATURAL PARK,City of San Diego,,La Jolla Heights Natural Park
+2030,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2031,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+2032,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2033,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2034,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2035,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2036,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2037,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2038,SOUTH BAY TERRACES OS,City of San Diego,,South Bay Terraces Open Space
+2039,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+2040,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+2041,SANDROCK CANYON OS PARK,City of San Diego,,Sandrock Canyon Open Space Park
+2042,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+2043,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2044,CARMEL VIEW RENAISSANCE PARK OS,City of San Diego,,Carmel View Renaissance Park Open Space
+2045,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2046,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2047,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2048,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2049,CARROLL CANYON OS,City of San Diego,,Carroll Canyon Open Space
+2050,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+2051,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+2052,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2053,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2054,BLACK MOUNTAIN RANCH OS,City of San Diego,,Black Mountain Ranch Open Space
+2055,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+2056,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2057,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2058,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2059,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2060,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+2061,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+2062,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+2063,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2064,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2065,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+2066,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2067,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+2068,SERRA MESA OS,City of San Diego,,Serra Mesa Open Space
+2069,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2070,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2071,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+2072,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2073,CHOLLAS PARKWAY OS,City of San Diego,,Chollas Parkway Open Space
+2074,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2075,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+2076,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+2077,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+2078,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2079,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2080,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2081,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2082,BLACK MOUNTAIN RANCH OS,City of San Diego,,Black Mountain Ranch Open Space
+2083,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2084,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2085,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2086,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2087,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2088,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2089,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+2090,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+2091,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+2092,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+2093,CARMEL VALLEY CVREP,City of San Diego,,Carmel Valley Cvrep
+2094,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2095,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2096,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2097,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2098,PACIFIC BEACH OS,City of San Diego,,Pacific Beach Open Space
+2099,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+2100,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2101,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+2102,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2103,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2104,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2105,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2106,SORRENTO HILLS OS,City of San Diego,,Sorrento Hills Open Space
+2107,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2108,PARADISE CANYON PARK,City of San Diego,,Paradise Canyon Park
+2109,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2110,SYCAMORE CANYON OS,City of San Diego,,Sycamore Canyon Open Space
+2111,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2112,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2113,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2114,UPTOWN OS,City of San Diego,,Uptown Open Space
+2115,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2116,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2117,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2118,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+2119,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+2120,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2121,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2122,MISSION VALLEY HILLSIDES OS,City of San Diego,,Mission Valley Hillsides Open Space
+2123,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2124,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2125,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+2126,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2127,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2128,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2129,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+2130,BANKERS HILL CANYON OS,City of San Diego,,Bankers Hill Canyon Open Space
+2131,PARADISE CANYON PARK,City of San Diego,,Paradise Canyon Park
+2132,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+2133,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2134,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2135,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2136,PACIFIC BEACH OS,City of San Diego,,Pacific Beach Open Space
+2137,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+2138,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2139,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2140,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+2141,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+2142,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2143,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2144,PARADISE CANYON PARK,City of San Diego,,Paradise Canyon Park
+2145,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2146,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2147,CARMEL MOUNTAIN RANCH OS,City of San Diego,,Carmel Mountain Ranch Open Space
+2148,MID-CITY OS,City of San Diego,,Mid-City Open Space
+2149,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+2150,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2151,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2152,UNIVERSITY CITY OS,City of San Diego,,University City Open Space
+2153,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2154,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+2155,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+2156,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2157,UPTOWN OS,City of San Diego,,Uptown Open Space
+2158,EUGENE PLACE OS,City of San Diego,,Eugene Place Open Space
+2159,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2160,UPTOWN OS,City of San Diego,,Uptown Open Space
+2161,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2162,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2163,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2164,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2165,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2166,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2167,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2168,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2169,DEL MAR MESA OS,City of San Diego,,Del Mar Mesa Open Space
+2170,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2171,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+2172,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+2173,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+2174,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+2175,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2176,LUDINGTON HEIGHTS OS PARK,City of San Diego,,Ludington Heights Open Space Park
+2177,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2178,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2179,CLEAR. SITE 536,City of San Diego,,Clear. Site 536
+2180,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2181,LA ZANJA CANYON OS,City of San Diego,,La Zanja Canyon Open Space
+2182,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2183,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2184,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2185,CHOLLAS CREEK OS,City of San Diego,,Chollas Creek Open Space
+2186,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+2187,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+2188,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+2189,CLEAR. SITE 628,City of San Diego,,Clear. Site 628
+2190,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2191,UPTOWN OS,City of San Diego,,Uptown Open Space
+2192,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+2193,KENSINGTON/COLLEGE OS,City of San Diego,,Kensington/College Open Space
+2194,MT ACADIA PARK,City of San Diego,,Mt Acadia Park
+2195,MISSION HILLS OS PARK,City of San Diego,,Mission Hills Open Space Park
+2196,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2197,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2198,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2199,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+2200,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2201,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2202,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2203,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2204,CERVANTES CANYON OS,City of San Diego,,Cervantes Canyon Open Space
+2205,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2206,CHOLLAS CREEK OS,City of San Diego,,Chollas Creek Open Space
+2207,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2208,SORRENTO HILLS OS,City of San Diego,,Sorrento Hills Open Space
+2209,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2210,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2211,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2212,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+2213,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+2214,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+2215,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2216,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2217,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+2218,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2219,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2220,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2221,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2222,MIRA MESA OS,City of San Diego,,Mira Mesa Open Space
+2223,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+2224,CREST CANYON OS PARK,City of San Diego,,Crest Canyon Open Space Park
+2225,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2226,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2227,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2228,DEL MAR MESA MITIGATION,City of San Diego,,Del Mar Mesa Mitigation
+2229,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2230,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2231,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2232,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2233,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+2234,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2235,CLEAR. SITE 675,City of San Diego,,Clear. Site 675
+2236,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+2237,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2238,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+2239,MISSION VALLEY RIPARIAN OS,City of San Diego,,Mission Valley Riparian Open Space
+2240,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2241,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+2242,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2243,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2244,FAIRBANKS RANCH COUNTRY CLUB,City of San Diego,,Fairbanks Ranch Country Club
+2245,ROSE CANYON OS,City of San Diego,,Rose Canyon Open Space
+2246,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2247,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2248,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2249,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2250,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2251,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2252,BATTLE MOUNTAIN OS,City of San Diego,,Battle Mountain Open Space
+2253,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+2254,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2255,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2256,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2257,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2258,MID-CITY OS,City of San Diego,,Mid-City Open Space
+2259,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+2260,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2261,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2262,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2263,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2264,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2265,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2266,SERRA MESA OS,City of San Diego,,Serra Mesa Open Space
+2267,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2268,MCGONIGLE CANYON OS,City of San Diego,,Mcgonigle Canyon Open Space
+2269,DEL MAR MESA OS,City of San Diego,,Del Mar Mesa Open Space
+2270,SANDROCK CANYON OS PARK,City of San Diego,,Sandrock Canyon Open Space Park
+2271,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2272,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2273,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+2274,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2275,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2276,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2277,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2278,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2279,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2280,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+2281,SHAW VALLEY OS,City of San Diego,,Shaw Valley Open Space
+2282,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2283,PACIFIC BEACH OS,City of San Diego,,Pacific Beach Open Space
+2284,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2285,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+2286,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2287,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2288,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2289,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2290,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2291,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2292,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2293,FAIRBANKS COUNTRY CLUB OS,City of San Diego,,Fairbanks Country Club Open Space
+2294,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2295,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2296,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2297,OTAY MITIGATION SITE,City of San Diego,,Otay Mitigation Site
+2298,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2299,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2300,,City of San Diego,,
+2301,,City of San Diego,,
+2302,CARROL CANYON,City of San Diego,,Carrol Canyon Open Space
+2303,FAIRBROOK NP,City of San Diego,,Fairbrook Park
+2304,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2305,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2306,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+2307,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2308,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2309,DEL MAR MESA MITIGATION,City of San Diego,,Del Mar Mesa Mitigation
+2310,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2311,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2312,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2313,RANCHO PENASQUITOS OS,City of San Diego,,Rancho Penasquitos Open Space
+2314,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2315,RADIO CANYON EXTENSION OS,City of San Diego,,Radio Canyon Extension Open Space
+2316,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+2317,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+2318,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2319,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2320,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2321,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2322,UPTOWN OS,City of San Diego,,Uptown Open Space
+2323,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2324,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+2325,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2326,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2327,ROSE CANYON OS,City of San Diego,,Rose Canyon Os
+2328,CARROLL CANYON OS,City of San Diego,,Carroll Canyon Os
+2329,UNIVERSITY CITY OS,City of San Diego,,University City Os
+2330,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2331,UPTOWN OS,City of San Diego,,Uptown Open Space
+2332,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2333,PRESIDIO OS,City of San Diego,,Presidio Open Space
+2334,UPTOWN OS,City of San Diego,,Uptown Open Space
+2335,NAVAJO CANYON OS PARK,City of San Diego,,Navajo Canyon Open Space Park
+2336,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+2337,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2338,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2339,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2340,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2341,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2342,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2343,CARMEL VALLEY CVREP,City of San Diego,,Carmel Valley Cvrep
+2344,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2345,CERVANTES CANYON OS,City of San Diego,,Cervantes Canyon Open Space
+2346,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+2347,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+2348,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2349,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Os
+2350,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Os
+2351,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Os
+2352,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2353,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2354,SPRING CREEK PARK,City of Oceanside,MELROSE AND OLD RANCH,Spring Creek Park
+2355,LAKE PARK,City of Oceanside,4970 LAKE BLVD,Lake Park
+2356,BUENA VISTA LAGOON NATURE CENTER,City of Oceanside,2202 S. COAST HWY,Buena Vista Lagoon Nature Center
+2357,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2358,KENSINGTON/COLLEGE OS,City of San Diego,,Kensington/College Open Space
+2359,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+2360,UPTOWN OS,City of San Diego,,Uptown Open Space
+2361,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2362,MID-CITY OS,City of San Diego,,Mid-City Open Space
+2363,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+2364,KENSINGTON HILLSIDES OS,City of San Diego,,Kensington Hillsides Open Space
+2365,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2366,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Open Space Park
+2367,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2368,INDIAN HILL OS PARK,City of San Diego,,Indian Hill Open Space Park
+2369,MISSION HILLS OS PARK,City of San Diego,,Mission Hills Open Space Park
+2370,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2371,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+2372,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2373,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2374,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2375,NAVAJO CANYON OS PARK,City of San Diego,,Navajo Canyon Open Space Park
+2376,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2377,CARMEL MOUNTAIN OS,City of San Diego,,Carmel Mountain Open Space
+2378,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2379,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2380,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2381,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2382,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2383,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2384,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2385,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2386,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2387,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2388,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2389,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2390,MIRA MESA VERNAL POOL OS,City of San Diego,,Mira Mesa Vernal Pool Open Space
+2391,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2392,OCEAN VIEW HILLS OS,City of San Diego,,Ocean View Hills Open Space
+2393,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2394,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2395,ROSE CANYON OS,City of San Diego,,Rose Canyon Open Space
+2396,CHOLLAS PARKWAY OS,City of San Diego,,Chollas Parkway Open Space
+2397,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2398,EUGENE PLACE OS,City of San Diego,,Eugene Place Open Space
+2399,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2400,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+2401,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2402,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2403,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2404,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2405,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2406,VALENCIA CANYON OS,City of San Diego,,Valencia Canyon Open Space
+2407,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+2408,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2409,ADOBE FALLS PARK OS,City of San Diego,,Adobe Falls Park Open Space
+2410,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2411,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2412,OTAY MITIGATION SITE,City of San Diego,,Otay Mitigation Site
+2413,SWITZER OS,City of San Diego,,Switzer Open Space
+2414,UPTOWN OS,City of San Diego,,Uptown Open Space
+2415,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2416,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2417,IVEY RANCH PARK,City of Oceanside,4101 MISSION AVENUE,Ivey Ranch Park
+2418,MELBA BISHOP PARK,City of Oceanside,5306 NORTH RIVER ROAD,Melba Bishop Park
+2419,OCEANSIDE DOG PARK,City of Oceanside,JONES & SLR,Oceanside Dog Park
+2420,ROSE CANYON OS,City of San Diego,,Rose Canyon Open Space
+2421,ROSE CANYON OS,City of San Diego,,Rose Canyon Open Space
+2422,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2423,SENIOR CITIZENS' CENTER,City of Oceanside,455 COUNTRY CLUB LANE,Senior Citizens' Center
+2424,SWITZER OS,City of San Diego,,Switzer Open Space
+2425,CHOLLAS PARKWAY OS,City of San Diego,,Chollas Parkway Open Space
+2426,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2427,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2428,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2429,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2430,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2431,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2432,JOSEPH BALDERRAMA PARK,City of Oceanside,709 SAN DIEGO STREET,Joseph Balderrama Park
+2433,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2434,ENCANTO PARK,City of San Diego,,Encanto Park
+2435,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2436,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2437,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2438,JOSEPH SEPULVEDA PARK,City of Oceanside,SHERBOURNE DRIVE & MARVIN,Joseph Sepulveda Park
+2439,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Os
+2440,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2441,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2442,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2443,"MARTIN LUTHER KING, JR. PARK",City of Oceanside,4300 MESA DRIVE,"Martin Luther King, Jr. Park"
+2444,ALEX RD SKATE PARK,City of Oceanside,"3300 ALEX RD, @ FOUSSAT",Alex Rd Skate Park
+2445,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Os
+2446,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Os
+2447,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Os
+2448,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Os
+2449,DEL MAR MESA MITIGATION,City of San Diego,,Del Mar Mesa Mitigation
+2450,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Os
+2451,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2452,SWITZER OS,City of San Diego,,Switzer Open Space
+2453,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Os
+2454,MISSION VALLEY HILLSIDES OS,City of San Diego,,Mission Valley Hillsides Open Space
+2455,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+2456,PENASQUITOS LAGOON OS,City of San Diego,,Penasquitos Lagoon Open Space
+2457,SWITZER OS,City of San Diego,,Switzer Open Space
+2458,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2459,JOSEPH CARRASCO PARK,City of Oceanside,SKYLARK DRIVE & PARTRIDGE,Joseph Carrasco Park
+2460,SOCAL SPORT FIELDS,City of Oceanside,EL CORAZON,Socal Sport Fields
+2461,RADIO CANYON EXTENSION OS,City of San Diego,,Radio Canyon Extension Os
+2462,LIBBY LAKE PARK,City of Oceanside,424 CALLE MONTECITO,Libby Lake Park
+2463,BUDDY TODD PARK,City of Oceanside,MESA DRIVE AND PARNASSUS CIRCLE,Buddy Todd Park
+2464,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Os Park
+2465,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Os Park
+2466,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Os Park
+2467,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Os Park
+2468,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2469,CERVANTES CANYON OS,City of San Diego,,Cervantes Canyon Open Space
+2470,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2471,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2472,CLEAR. SITE 642,City of San Diego,,Clear. Site 642
+2473,ROSE CANYON OS,City of San Diego,,Rose Canyon Open Space
+2474,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2475,CLEAR. SITE 761,City of San Diego,,Clear. Site 761
+2476,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+2477,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2478,LA JOLLA OS,City of San Diego,,La Jolla Open Space
+2479,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2480,CLEAR. SITE 536,City of San Diego,,Clear. Site 536
+2481,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+2482,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2483,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2484,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2485,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2486,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+2487,CLEAR. SITE 073,City of San Diego,,Clear. Site 073
+2488,AMERICANIZATION SCHOOL,City of Oceanside,1210 DIVISION STREET,Americanization School
+2489,ROSE CANYON OS,City of San Diego,,Rose Canyon Os
+2490,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Os Park
+2491,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2492,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2493,ALAMOSA PARK,City of Oceanside,MESA DR AND ALAMOSA DR,Alamosa Park
+2494,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Os
+2495,LA JOLLA OS,City of San Diego,,La Jolla Os
+2496,MARIAN BEAR OS PARK,City of San Diego,,Marian Bear Os Park
+2497,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Os
+2498,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Os
+2499,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+2500,UPTOWN OS,City of San Diego,,Uptown Os
+2501,UPTOWN OS,City of San Diego,,Uptown Os
+2502,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+2503,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2504,ROSE CANYON OS,City of San Diego,,Rose Canyon Open Space
+2505,LOS PENASQUITOS CANYON VERNAL POOL OS,City of San Diego,,Los Penasquitos Canyon Vernal Pool Open Space
+2506,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2507,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2508,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2509,SWITZER OS,City of San Diego,,Switzer Os
+2510,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2511,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2512,RANCHO MISSION CANYON OS,City of San Diego,,Rancho Mission Canyon Open Space
+2513,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2514,Vista Sports Park,City of Vista,1600 Sports Park Way,Vista Sports Park
+2515,Bub Williamson Park,City of Vista,530 Grapevine Rd,Bub Williamson Park
+2516,Rotary Lane,City of Vista,Vista Village Dr & Palm Dr,Rotary Lane
+2517,Veterans Memorial Park,City of Vista,Paseo Santa Fe,Veterans Memorial Park
+2518,Soroptomist Parkette,City of Vista,Vista Village Dr. at S. Santa Fe Avenue,Soroptomist Parkette
+2519,OTAY MESA OS,City of San Diego,,Otay Mesa Os
+2520,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2521,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2522,ROSE CANYON OS,City of San Diego,,Rose Canyon Open Space
+2523,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2524,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2525,MID-CITY OS,City of San Diego,,Mid-City Open Space
+2526,UPTOWN OS,City of San Diego,,Uptown Os
+2527,UNIVERSITY HEIGHTS OS PARK,City of San Diego,,University Heights Os Park
+2528,CLEAR. SITE 536,City of San Diego,,Clear. Site 536
+2529,OLD TROLLEY BARN PARK,City of San Diego,,Old Trolley Barn Park
+2530,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2531,MARLADO HIGHLANDS PARK,City of Oceanside,RIVERTREE AND SOUTHWOOD,Marlado Highlands Park
+2532,FIRESIDE PARK,City of Oceanside,251 FIRESIDE STREET,Fireside Park
+2533,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Os
+2534,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2535,KENSINGTON HILLSIDES OS,City of San Diego,,Kensington Hillsides Open Space
+2536,32ND ST CANYON OS,City of San Diego,,32nd St Canyon Open Space
+2537,MID-CITY OS,City of San Diego,,Mid-City Os
+2538,EL CORAZON SENIOR CENTER,City of Oceanside,EL CORAZON,El Corazon Senior Center
+2539,PACIFIC ST LINEAR PARK,City of Oceanside,PACIFIC: SURFRIDER TO WISCONSIN,Pacific St Linear Park
+2540,SUNSHINE BROOKS THEATER,City of Oceanside,COAST HWY & PIER VIEW,Sunshine Brooks Theater
+2541,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2542,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2543,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2544,IMPERIAL MARKETPLACE OS,City of San Diego,,Imperial Marketplace Os
+2545,IMPERIAL MARKETPLACE OS,City of San Diego,,Imperial Marketplace Os
+2546,TALMADGE HILLSIDES OS,City of San Diego,,Talmadge Hillsides Open Space
+2547,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2548,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2549,MISSION VALLEY PRESERVE,City of San Diego,,Mission Valley Preserve
+2550,SOUTH BAY TERRACES OS,City of San Diego,,South Bay Terraces Open Space
+2551,CHOLLAS RADIO SYSTEM OS,City of San Diego,,Chollas Radio System Open Space
+2552,ENCANTO EXPRESSWAY OS,City of San Diego,,Encanto Expressway Open Space
+2553,MISSION HILLS OS PARK,City of San Diego,,Mission Hills Open Space Park
+2554,MID-CITY OS,City of San Diego,,Mid-City Open Space
+2555,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+2556,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+2557,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Os
+2558,CESAR CHAVEZ PARK,City of Oceanside,DIVISION STREET,Cesar Chavez Park
+2559,TYSON STREET PARK,City of Oceanside,206 S STRAND AND TYSON,Tyson Street Park
+2560,STRAND BEACH PARK,City of Oceanside,100 S STRAND AND SEAGAZE,Strand Beach Park
+2561,BROOKS ST SWIM CENTER,City of Oceanside,130 BROOKS STREET,Brooks St Swim Center
+2562,RON ORTEGA RECREATION PARK,City of Oceanside,BROOKS AND MAXSON,Ron Ortega Recreation Park
+2563,NORTH CITY WEST OS,City of San Diego,,North City West Open Space
+2564,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2565,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2566,MAPLE CANYON OS,City of San Diego,,Maple Canyon Open Space
+2567,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2568,34TH ST CANYON OS,City of San Diego,,34th St Canyon Open Space
+2569,CHOLLAS CREEK OS,City of San Diego,,Chollas Creek Open Space
+2570,LEXINGTON CANYON OS,City of San Diego,,Lexington Canyon Open Space
+2571,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2572,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2573,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+2574,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2575,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2576,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2577,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2578,MANCE BUCHANON PARK,City of Oceanside,425 COLLEGE BLVD,Mance Buchanon Park
+2579,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2580,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2581,LION'S CLUB PARK,City of Oceanside,CASSIDY AND BROADWAY,Lion'S Club Park
+2582,TECOLOTE CANYON NATURAL OS PARK,City of San Diego,,Tecolote Canyon Natural Open Space Park
+2583,SABRE SPRINGS OS,City of San Diego,,Sabre Springs Open Space
+2584,UPTOWN OS,City of San Diego,,Uptown Open Space
+2585,LA ZANJA CANYON OS,City of San Diego,,La Zanja Canyon Open Space
+2586,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2587,SAN PASQUAL TRAILS OS,City of San Diego,,San Pasqual Trails Open Space
+2588,CARMEL VALLEY CVREP,City of San Diego,,Carmel Valley Cvrep
+2589,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2590,ROSE CANYON OS,City of San Diego,,Rose Canyon Open Space
+2591,UPTOWN OS,City of San Diego,,Uptown Open Space
+2592,UPTOWN OS,City of San Diego,,Uptown Open Space
+2593,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2594,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Os
+2595,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2596,HERITAGE PARK,City of Oceanside,500 PEYRI ROAD,Heritage Park
+2597,JUNIOR SEAU BEACH COMMUNITY CENTER,City of Oceanside,300 NORTH STRAND,Junior Seau Beach Community Center
+2598,PIER AMPHITHEATER,City of Oceanside,300 NORTH STRAND,Pier Amphitheater
+2599,OAK RIPARIAN PARK,City of Oceanside,4625 LAKE BOULEVARD,Oak Riparian Park
+2600,SOUTH OCEANSIDE SCHOOL PARK,City of Oceanside,CASSIDY AND STEWART,South Oceanside School Park
+2601,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2602,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2603,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2604,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2605,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2606,MISSION TRAILS OS,City of San Diego,,Mission Trails Open Space
+2607,TIERRASANTA OS,City of San Diego,,Tierrasanta Open Space
+2608,LA JOLLA OS,City of San Diego,,La Jolla Open Space
+2609,LOS PENASQUITOS CANYON OS,City of San Diego,,Los Penasquitos Canyon Open Space
+2610,BLACK MOUNTAIN OS PARK,City of San Diego,,Black Mountain Open Space Park
+2611,SCRIPPS MIRAMAR OS,City of San Diego,,Scripps Miramar Open Space
+2612,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2613,CARMEL VALLEY OS,City of San Diego,,Carmel Valley Open Space
+2614,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2615,OTAY MESA OS,City of San Diego,,Otay Mesa Open Space
+2616,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2617,ALBATROSS CANYON OS,City of San Diego,,Albatross Canyon Open Space
+2618,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2619,OTAY VALLEY REGIONAL PARK,City of San Diego,,Otay Valley Regional Park
+2620,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2621,CANYON HILLS OS,City of San Diego,,Canyon Hills Open Space
+2622,OTAY MESA OS,City of San Diego,,Otay Mesa Os
+2623,OTAY MESA OS,City of San Diego,,Otay Mesa Os
+2624,Felicita,County DPR,,Felicita County Park
+2625,Flinn Springs,County DPR,,Flinn Springs County Park
+2626,Sycamore Canyon / Goodan Ranch,County DPR,,Goodan Ranch/Sycamore Canyon County Preserve
+2627,Goodland Acres,County DPR,,Goodland Acres County Park
+2628,Gopher Canyon,County DPR,,Gopher Canyon Reserve
+2629,Greenfield,County DPR,,Greenfield
+2630,Blue Sky Ranch,County DPR,,Blue Sky Ranch Ecological Reserve
+2631,Aerie,County DPR,,Aerie Park
+2632,Agua Caliente,County DPR,,Agua Caliente County Park
+2633,Stoneridge,County DPR,,Stoneridge Preserve
+2634,Bancroft,County DPR,,Bancroft County Park
+2635,Berkeley Hering,County DPR,,Berkeley Hering Preserve
+2636,Christopher Hill,County DPR,,Christopher Hill (TET)
+2637,Clemmens Lane,County DPR,,Clemmens Lane County Park
+2638,Cole Grade,County DPR,,Cole Grade Park
+2639,Borrego Springs,County DPR,,Borrego Springs
+2640,Borrego Springs,County DPR,,Borrego Springs Park Site Dedication
+2641,Boulder Oaks,County DPR,,Boulder Oaks County Preserve
+2642,Campo Stone Store,County DPR,,Campo Stone Store
+2643,Chocolate Summit,County DPR,,Chocolate Summit Tax Parcel (Van Dussen)
+2644,Collier,County DPR,,Collier County Park
+2645,Cottonwood,County DPR,,Cottonwood County Park
+2646,Mission Trails,City of San Diego,,Mission Trails Regional Park
+2647,Damon Lane,County DPR,,Damon Lane County Park
+2648,Del Parque,County DPR,,Del Parque Park
+2649,Diamond Trail,County DPR,,Diamond Trail (TET)
+2650,Don Dussault,County DPR,,Don Dussault County Park
+2651,Dos Picos,County DPR,,Dos Picos County Park
+2652,El Monte,County DPR,,El Monte County Park
+2653,Estrella Drive,County DPR,,Estrella County Park
+2654,Eucalyptus,County DPR,,Eucalyptus County Park
+2655,Fallbrook,County DPR,,Fallbrook Community Center
+2656,Guajome,County DPR,,Guajome Regional Park
+2657,Heritage,County DPR,,Heritage County Park
+2658,Hillsdale,County DPR,,Hillsdale County Park
+2659,Hilton Head,County DPR,,Hilton Head County Park
+2660,Ildica Street,County DPR,,Ildica Street Park
+2661,In-Ko-Pah,County DPR,,In-Ko-Pah Park
+2662,Jess Martin,County DPR,,Jess Martin County Park
+2663,Rios Baseball Park,County DPR,,Rios Baseball Park
+2664,Robert Adams,County DPR,,Robert Adams Park
+2665,Sage Hill,County DPR,,Sage Hill Preserve
+2666,San Elijo Lagoon,County DPR,,San Elijo Lagoon & Ecological Rreserve
+2667,Santa Margarita,County DPR,,Santa Margarita County Preserve
+2668,Santa Ysabel East,County DPR,,Santa Ysabel County Preserve East
+2669,Santa Ysabel West,County DPR,,Santa Ysabel County Preserve West
+2670,Simon,County DPR,,Simon County Preserve
+2671,South Lane,County DPR,,South Lane County Park
+2672,Spring Valley,County DPR,,Spring Valley County Park
+2673,Julian Pioneer Memorial,County DPR,,Julian Museum & Pioneer County Park
+2674,Knollwood,County DPR,,Knollwood Preserve (TET)
+2675,Lake Morena,County DPR,,Lake Morena County Park
+2676,Lakeside Baseball Park,County DPR,,Lakeside Baseball Park
+2677,Lakeside Linkage,County DPR,,Lakeside Linkage Preserve
+2678,Lamar Street,County DPR,,Lamar County Park
+2679,Daley Preserve,County DPR,,Lawrence & Barbara Daley Preserve
+2680,Lincoln Acres,County DPR,,Lincoln Acres County Park
+2681,Lindo Lake,County DPR,,Lindo Lake County Park
+2682,Live Oak,County DPR,,Live Oak County Park
+2683,Lonny Brewer,County DPR,,Lonny Brewer County Park
+2684,Los Coches,County DPR,,Los Coches Historical Marker
+2685,Lusardi Creek,County DPR,,Lusardi Creek County Preserve
+2686,Magdalena Ecke,County DPR,,Magdalena Ecke Open Space
+2687,Mexican Canyon,County DPR,,Mexican Canyon Tax Parcel Lucero
+2688,Mount Olympus,County DPR,,Mount Olympus Preserve
+2689,Mountain Springs,County DPR,,Mountain Springs Park
+2690,Nancy Jane,County DPR,,Nancy Jane County Park
+2691,Oakoasis,County DPR,,Oakoasis County Preserve
+2692,Old Ironsides,County DPR,,Old Ironsides County Park
+2693,Old Springs Road,County DPR,,Old Springs Road Preserve
+2694,Otay Lakes,County DPR,,Otay Lakes Regional Park
+2695,Otay Mesa East,County DPR,,Furby North
+2696,Pala Mesa,County DPR,,Pala Mesa Mitigation Property
+2697,Palomar Mountain,County DPR,,Palomar Mountain County Park
+2698,Potrero,County DPR,,Potrero County Park
+2699,Quail,County DPR,,San Diego Botanic Garden
+2700,Rainbow,County DPR,,Rainbow County Park
+2701,Ramona Grasslands,County DPR,,Ramona Grasslands County Preserve
+2702,Ramona Community School,County DPR,,Ramona Community School Park
+2703,Rancho Guajome Adobe,County DPR,,Rancho Guajome Adobe
+2704,Rancho de los Penasquitos,County DPR,,Rancho de los Penasquitos
+2705,Reams / Thomson,County DPR,,Reams / Thomson
+2706,Steele Canyon,County DPR,,Steele Canyon County Park
+2707,Stelzer,County DPR,,Louis A. Stelzer County Park
+2708,Sweetwater Lane,County DPR,,Sweetwater Lane Sportsfield
+2709,Del Dios Highlands,County DPR,,Del Dios Highlands County Preserve
+2710,Tijuana River Valley,County DPR,,Tijuana River Valley Regional Park
+2711,Santa Fe Valley,County DPR,,Santa Fe Valley Open Space Preserve
+2712,Val Sereno,County DPR,,Val Sereno Preserve
+2713,Vallecito,County DPR,,Vallecito County Park
+2714,Valley Center,County DPR,,Valley Center Community Park
+2715,Volcan Mountain,County DPR,,Volcan Mountain Wilderness Preserve
+2716,Whaley House Complex,County DPR,,Whaley House
+2717,Wilderness Gardens,County DPR,,Wilderness Gardens County Preserve
+2718,William Heise,County DPR,,William Heise County Park
+2719,Woodhaven,County DPR,,Woodhaven County Park
+2720,Los Penasquitos Canyon,County DPR,,Los Penasquitos Canyon County Preserve
+2721,Sweetwater Summit,County DPR,,Sweetwater Regional Park
+2722,Pine Valley,County DPR,,Pine Valley County Park
+2723,Otay Valley,County DPR,,Otay Valley Regional Park
+2724,San Dieguito,County DPR,,San Dieguito County Park
+2725,4S Ranch,County DPR,,4S Ranch Liberty Park
+2726,Lakeside Equestrian,County DPR,,Lakeside Equestrian Facility
+2727,San Luis Rey,County DPR,,San Luis Rey River Park
+2728,Otay Lakes County Park,County DPR,,Otay Lakes County Park
+2729,Otay Valley,County DPR,,Otay Valley Regional Park
+2730,Barnett Ranch,County DPR,,Barnett Ranch County Preserve
+2731,Escondido Creek,County DPR,,Escondido Creek Preserve
+2732,Bottle Peak,County DPR,,Bottle Peak Preserve
+2733,Historic Flume Corridor,County DPR,,Historic Flume Corridor
+2734,Santa Fe Valley,County DPR,,Santa Fe Valley Local Park
+2735,Waterfront,County DPR,,Waterfront Park
+2736,Spring Valley,County DPR,,Spring Valley Gymnasium/Teen Center
+2737,Santa Ysabel,County DPR,,Santa Ysabel County Preserve
+2738,Cactus,County DPR,,Cactus County Park
+2739,Hellhole Canyon,County DPR,,Hellhole Canyon County Preserve
+2740,Keys Creek,County DPR,,Keys Creek Preserve
+2741,4S Ranch,County DPR,,4S Ranch Sports Park
+2742,4S Ranch,County DPR,,4S Ranch Patriot Park
+2743,4S Ranch,County DPR,,4S Ranch Heritage Park
+2744,4S Ranch,County DPR,,4S Ranch Homestead Park
+2745,4S Ranch,County DPR,,4S Ranch Community Park
+2746,Luelf Pond,County DPR,,Luelf Pond County Preserve
+2747,Holly Oaks,County DPR,,Holly Oaks County Park
+2748,Spring Valley,County DPR,,Spring Valley Community Center
+2749,Lindo Lake,County DPR,,Lakeside Community/Teen Center
+2750,Sweetwater,County DPR,,Sweetwater Lane County Park
+2751,Provence House,County DPR,,Provence House
+2752,San Vicente,County DPR,,San Vicente (Navarro)
+2753,San Vicente,County DPR,,San Vicente (Moore / Moffett)
+2754,Dictionary Hill,County DPR,,Dictionary Hill Preserve
+2755,San Vicente,County DPR,,San Vicente (Uridel)
+2756,Mountain Meadow,County DPR,,Mountain Meadow Preserve
+2757,Peutz Valley,County DPR,,Peutz Valley (Helix Land)
